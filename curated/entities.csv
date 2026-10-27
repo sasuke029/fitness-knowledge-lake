@@ -1,0 +1,130 @@
+entity_id,entity_type,entity_name,n_abstracts,n_mentions,methods
+E0001,BIOMARKER,insulin,16,23,transformer_ner
+E0002,BIOMARKER,glucose,10,10,transformer_ner
+E0003,BIOMARKER,body weight,7,9,transformer_ner
+E0004,BIOMARKER,heart rate,5,11,transformer_ner
+E0005,BIOMARKER,waist circumference,5,14,transformer_ner
+E0006,BIOMARKER,mtor,3,3,transformer_ner
+E0007,BIOMARKER,ampk,2,2,transformer_ner
+E0008,BIOMARKER,hemoglobin,2,3,transformer_ner
+E0009,BIOMARKER,lactate,2,5,transformer_ner
+E0010,BIOMARKER,triglyceride,2,2,transformer_ner
+E0011,BODY_STRUCTURE,skeletal muscle,18,34,transformer_ner
+E0012,BODY_STRUCTURE,knee,11,22,transformer_ner
+E0013,BODY_STRUCTURE,ankle,5,11,transformer_ner
+E0014,BODY_STRUCTURE,lower limb,3,4,transformer_ner
+E0015,BODY_STRUCTURE,elbow,2,2,transformer_ner
+E0016,BODY_STRUCTURE,liver,2,4,transformer_ner
+E0017,BODY_STRUCTURE,lower extremity,2,2,transformer_ner
+E0018,BODY_STRUCTURE,patellar tendon,2,4,transformer_ner
+E0019,BODY_STRUCTURE,shoulder,2,5,transformer_ner
+E0020,CONDITION,obesity,59,197,dictionary
+E0021,CONDITION,type 2 diabetes,52,226,dictionary;transformer_ner
+E0022,CONDITION,hypertension,30,135,dictionary;transformer_ner
+E0023,CONDITION,sarcopenia,26,108,dictionary;transformer_ner
+E0024,CONDITION,cardiovascular disease,24,37,dictionary
+E0025,CONDITION,overweight,21,50,dictionary
+E0026,CONDITION,insulin resistance,15,22,dictionary
+E0027,CONDITION,pain,12,53,transformer_ner
+E0028,CONDITION,cancer,11,33,dictionary
+E0029,CONDITION,depression,8,8,dictionary
+E0030,CONDITION,stiffness,6,13,transformer_ner
+E0031,CONDITION,knee injury,5,6,dictionary
+E0032,CONDITION,low back pain,5,16,dictionary
+E0033,CONDITION,metabolic syndrome,5,20,dictionary
+E0034,CONDITION,osteoarthritis,5,13,dictionary
+E0035,CONDITION,disability,4,4,transformer_ner
+E0036,CONDITION,osteoporosis,4,5,dictionary
+E0037,CONDITION,stroke,4,5,transformer_ner
+E0038,CONDITION,frail,3,3,transformer_ner
+E0039,CONDITION,COPD,2,6,dictionary
+E0040,CONDITION,adverse events,2,2,transformer_ner
+E0041,CONDITION,dementia,2,3,transformer_ner
+E0042,CONDITION,hair loss,2,3,transformer_ner
+E0043,CONDITION,peripheral artery disease,2,3,transformer_ner
+E0044,EXERCISE,squat,53,205,dictionary
+E0045,EXERCISE,sprint,26,80,dictionary;transformer_ner
+E0046,EXERCISE,running,15,75,dictionary;transformer_ner
+E0047,EXERCISE,countermovement jump,13,34,dictionary
+E0048,EXERCISE,cycling,13,20,dictionary
+E0049,EXERCISE,walking,11,26,dictionary
+E0050,EXERCISE,bench press,10,22,dictionary
+E0051,EXERCISE,leg press,7,22,dictionary
+E0052,EXERCISE,lunge,7,21,dictionary
+E0053,EXERCISE,physical exercise,6,8,transformer_ner
+E0054,EXERCISE,deadlift,4,10,dictionary
+E0055,EXERCISE,leg extension,3,9,dictionary
+E0056,EXERCISE,swimming,2,7,dictionary
+E0057,EXERCISE,biceps curl,1,3,dictionary
+E0058,EXERCISE,hip thrust,1,2,dictionary
+E0059,EXERCISE,plank,1,3,dictionary
+E0060,EXERCISE,push-up,1,2,dictionary
+E0061,MUSCLE,quadriceps,21,58,dictionary;transformer_ner
+E0062,MUSCLE,hamstrings,20,90,dictionary;transformer_ner
+E0063,MUSCLE,calves,6,11,dictionary
+E0064,MUSCLE,biceps,5,6,dictionary
+E0065,MUSCLE,triceps,5,13,dictionary
+E0066,MUSCLE,glutes,4,21,dictionary
+E0067,MUSCLE,abductors,2,2,dictionary
+E0068,MUSCLE,adductors,2,2,dictionary
+E0069,MUSCLE,abdominals,1,1,dictionary
+E0070,MUSCLE,chest,1,1,dictionary
+E0071,MUSCLE,lower back,1,2,dictionary
+E0072,NUTRIENT,protein,48,222,dictionary;transformer_ner
+E0073,NUTRIENT,creatine,43,377,dictionary
+E0074,NUTRIENT,whey protein,14,61,dictionary
+E0075,NUTRIENT,carbohydrate,8,13,dictionary
+E0076,NUTRIENT,leucine,8,14,dictionary
+E0077,NUTRIENT,vitamin D,7,21,dictionary
+E0078,NUTRIENT,essential amino acids,6,23,dictionary
+E0079,NUTRIENT,omega-3,5,7,dictionary
+E0080,NUTRIENT,HMB,2,28,dictionary
+E0081,NUTRIENT,caffeine,2,16,dictionary
+E0082,NUTRIENT,casein,2,6,dictionary
+E0083,NUTRIENT,beta-alanine,1,3,dictionary
+E0084,NUTRIENT,dietary fat,1,1,dictionary
+E0085,NUTRIENT,sodium bicarbonate,1,6,dictionary
+E0086,OUTCOME,muscle hypertrophy,100,364,dictionary
+E0087,OUTCOME,muscle strength,89,255,dictionary
+E0088,OUTCOME,blood pressure,47,231,dictionary;transformer_ner
+E0089,OUTCOME,flexibility,47,236,dictionary
+E0090,OUTCOME,fat loss,46,139,dictionary
+E0091,OUTCOME,physical function,43,101,dictionary
+E0092,OUTCOME,cardiorespiratory fitness,33,82,dictionary
+E0093,OUTCOME,body composition,30,51,dictionary
+E0094,OUTCOME,glycemic control,21,48,dictionary
+E0095,OUTCOME,quality of life,21,25,dictionary
+E0096,OUTCOME,lean mass,20,36,dictionary
+E0097,OUTCOME,fatigue,19,37,dictionary
+E0098,OUTCOME,inflammation,18,37,dictionary
+E0099,OUTCOME,insulin sensitivity,18,25,dictionary
+E0100,OUTCOME,jump performance,17,34,dictionary
+E0101,OUTCOME,BMI,16,35,dictionary
+E0102,OUTCOME,muscle protein synthesis,14,39,dictionary
+E0103,OUTCOME,muscle damage,12,41,dictionary
+E0104,OUTCOME,injury risk,11,18,dictionary
+E0105,OUTCOME,cholesterol,10,28,dictionary;transformer_ner
+E0106,OUTCOME,power,10,19,dictionary
+E0107,OUTCOME,sprint performance,8,14,dictionary
+E0108,OUTCOME,endurance performance,7,27,dictionary
+E0109,OUTCOME,bone density,1,2,dictionary
+E0110,POPULATION,athletes,68,184,dictionary
+E0111,POPULATION,patients,62,177,dictionary
+E0112,POPULATION,women,38,118,dictionary
+E0113,POPULATION,men,37,51,dictionary
+E0114,POPULATION,older adults,37,107,dictionary
+E0115,POPULATION,untrained individuals,26,47,dictionary
+E0116,POPULATION,children and adolescents,21,89,dictionary
+E0117,POPULATION,trained individuals,12,19,dictionary
+E0118,POPULATION,young adults,11,20,dictionary
+E0119,TRAINING_TYPE,resistance training,148,398,dictionary
+E0120,TRAINING_TYPE,aerobic exercise,79,220,dictionary
+E0121,TRAINING_TYPE,HIIT,45,277,dictionary
+E0122,TRAINING_TYPE,stretching,43,256,dictionary
+E0123,TRAINING_TYPE,plyometric training,37,133,dictionary
+E0124,TRAINING_TYPE,combined training,14,26,dictionary
+E0125,TRAINING_TYPE,isometric exercise,8,15,dictionary
+E0126,TRAINING_TYPE,blood flow restriction training,5,15,dictionary
+E0127,TRAINING_TYPE,sprint interval training,4,29,dictionary
+E0128,TRAINING_TYPE,strengthening,3,4,transformer_ner
+E0129,TRAINING_TYPE,yoga,3,5,dictionary

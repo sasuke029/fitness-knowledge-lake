@@ -1,0 +1,49 @@
+GENAI RESULTS  (model: gemini-3.6-flash)
+============================================================
+
+Task 1 - citation grounding (all 5 entities)
+            n_citations  verifiable_citations  grounding_rate
+method                                                       
+graph_rag            25                    25            1.00
+no_context           25                     3            0.12
+
+Per entity:
+         entity     method  n_citations  verifiable_citations  grounding_rate  words
+       creatine  graph_rag            5                     5             1.0    162
+       creatine no_context            6                     3             0.5    175
+     sarcopenia  graph_rag            5                     5             1.0    171
+     sarcopenia no_context            3                     0             0.0    172
+           HIIT  graph_rag            5                     5             1.0    179
+           HIIT no_context            4                     0             0.0    171
+type 2 diabetes  graph_rag            6                     6             1.0    170
+type 2 diabetes no_context            6                     0             0.0    173
+          squat  graph_rag            4                     4             1.0    183
+          squat no_context            6                     0             0.0    172
+
+Task 2 - finding classification on 40 manually labelled conclusions
+                              method  accuracy  macro_f1
+BART-large-MNLI zero-shot (Part 1.1)       0.6     0.565
+                LLM gemini-3.8-flash       0.9     0.851
+
+LLM confusion matrix:
+              inconclusive  negative  no_effect  positive
+gold                                                     
+inconclusive            11         0          0         0
+negative                 1         1          0         0
+no_effect                0         0          8         1
+positive                 2         0          0        16
+
+Task 3 - KG completion: 12 pairs assessed, 11 PROPOSED edges written to Neo4j
+            subject relation                    object  confidence  shared_studies                      evidence_pmids
+         stretching IMPROVES               flexibility        0.95            39.0                            32669487
+resistance training IMPROVES        muscle hypertrophy        0.98            74.0                   41843416;37414459
+   aerobic exercise  REDUCES                   obesity        0.90            35.0                   36981649;28401638
+resistance training IMPROVES           muscle strength        0.98            60.0          41843416;28834797;37414459
+plyometric training IMPROVES          jump performance        0.95            14.0          31426481;29176387;36889323
+   aerobic exercise IMPROVES                  fat loss        0.90            26.0                   36981649;28401638
+            protein IMPROVES        muscle hypertrophy        0.95            28.0                            28698222
+               HIIT IMPROVES cardiorespiratory fitness        0.95            16.0                   36981649;30733142
+   aerobic exercise IMPROVES cardiorespiratory fitness        0.95            20.0          38640145;36981649;30733142
+   aerobic exercise  REDUCES                overweight        0.90            16.0                   28401638;39724371
+             sprint     NONE          jump performance        0.80             9.0 29176387;36889323;38900173;32868678
+            protein IMPROVES                sarcopenia        0.90            13.0                   40937507;38374703

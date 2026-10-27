@@ -1,0 +1,130 @@
+entity_id,entity_name,entity_type,search_term,qid,wd_label,wd_description,link_score,linked,n_candidates,mesh_id
+E0001,insulin,BIOMARKER,insulin,Q50265665,insulin,pancreas hormone,3.2,True,8,D007328
+E0002,glucose,BIOMARKER,glucose,Q21036645,aldehydo-D-glucose,chemical compound,3.414,True,8,
+E0003,body weight,BIOMARKER,human body weight,Q620876,human body weight,person's mass or weight,2.2,True,6,D001835
+E0004,heart rate,BIOMARKER,heart rate,Q1073121,heart rate,number of contractions (beats) of the heart per minute (bpm),2.2,True,8,D006339
+E0005,waist circumference,BIOMARKER,waist circumference,Q811148,waist circumference,biomedical measurement,3.2,True,11,D055105
+E0006,mtor,BIOMARKER,mTOR,Q14876086,MTOR,protein-coding gene in the species Homo sapiens,3.2,True,10,
+E0007,ampk,BIOMARKER,AMP-activated protein kinase,Q28561069,Protein kinase AMP-activated catalytic subunit alpha 2,mammalian protein found in Rattus norvegicus,3.0,True,10,
+E0008,hemoglobin,BIOMARKER,hemoglobin,Q43041,hemoglobin,oxygen-transport metalloprotein in red blood cells of most vertebrates,3.832,True,8,D006454
+E0009,lactate,BIOMARKER,lactic acid,Q27080955,L-lactic acid,chemical compound,3.314,True,8,
+E0010,triglyceride,BIOMARKER,triglyceride,Q27161947,TG(16:0/16:0/18:1(9Z))[iso3],chemical compound,3.314,True,10,
+E0011,skeletal muscle,BODY_STRUCTURE,skeletal muscle,Q1048687,skeletal muscle,one of three major muscle types,3.1,True,9,D018482
+E0012,knee,BODY_STRUCTURE,knee,Q16178115,Knee,South Korean pro gamer,2.1,True,8,
+E0013,ankle,BODY_STRUCTURE,ankle,Q168002,ankle,region where the foot and the leg meet,2.2,True,11,D000842
+E0014,lower limb,BODY_STRUCTURE,lower limb,Q133105,leg,weight bearing and locomotive anatomical structure of animals,3.2,True,10,
+E0015,elbow,BODY_STRUCTURE,elbow,Q42586,elbow,area between the humerus in the upper arm and the radius and ulna in the forearm,2.0,True,10,D004550
+E0016,liver,BODY_STRUCTURE,liver,Q9368,liver,vertebrate organ involved in metabolism,3.2,True,9,D008099
+E0017,lower extremity,BODY_STRUCTURE,lower extremity,Q62513663,lower limb,"region of the lower limb in animals, extending from the gluteal region to the foot, and including the buttocks, hip and leg",3.2,True,10,D035002
+E0018,patellar tendon,BODY_STRUCTURE,patellar tendon,Q1172095,patellar tendon,"continuation of the quadriceps tendon, with the patella embedded in it, inserting onto the tibial tuberosity",3.2,True,10,D017847
+E0019,shoulder,BODY_STRUCTURE,shoulder,Q16363,shoulder,part of the body; movable joint between arm and upper body,3.614,True,10,D012782
+E0020,obesity,CONDITION,obesity,Q12174,obesity,medical condition in which individuals have an excess of body fat,3.614,True,9,D009765
+E0021,type 2 diabetes,CONDITION,type 2 diabetes,Q3025883,type 2 diabetes,type of diabetes mellitus with high blood sugar and insulin resistance,2.2,True,10,D003924
+E0022,hypertension,CONDITION,hypertension,Q41861,arterial hypertension,long term medical condition with elevated arterial blood pressure,3.614,True,8,D006973
+E0023,sarcopenia,CONDITION,sarcopenia,Q1787939,sarcopenia,progressive decline in muscle mass due to aging,2.2,True,11,D055948
+E0024,cardiovascular disease,CONDITION,cardiovascular disease,Q389735,cardiovascular disease,class of diseases that involve the heart or blood vessels,3.2,True,11,D002318
+E0025,overweight,CONDITION,overweight,Q332428,overweight,having a body mass index of 25.0–29.9 kg/m2,2.2,True,10,D050177
+E0026,insulin resistance,CONDITION,insulin resistance,Q1053470,insulin resistance,human disease,3.2,True,11,D007333
+E0027,pain,CONDITION,pain,Q81938,pain,type of unpleasant feeling,2.1,True,11,D010146
+E0028,cancer,CONDITION,cancer,Q12078,cancer,group of diseases involving abnormal cell growth and spread,3.0,True,10,
+E0029,depression,CONDITION,depression,Q42844,major depressive disorder,"mood disorder characterized by persistent low mood, motivation, and self-esteem, accompanied by loss of interest or pleasure and impairment of functioning",3.2,True,8,D003865
+E0030,stiffness,CONDITION,stiffness,Q1345732,muscle stiffness,feeling of tension or tightness in one or more muscles,2.2,True,9,
+E0031,knee injury,CONDITION,anterior cruciate ligament injury,Q18912826,anterior cruciate ligament injury,ligament injury near the knee,3.2,True,11,D000070598
+E0032,low back pain,CONDITION,low back pain,Q852163,lower back pain,"disorder involving muscles, nerves, bones of the back",3.2,True,11,D017116
+E0033,metabolic syndrome,CONDITION,metabolic syndrome,Q657193,metabolic syndrome,"disease diagnosed by a cluster of at least 3 out of the following conditions: abdominal obesity, high blood pressure, high blood sugar, high serum triglycerides, low serum high-density lipoprotein",3.614,True,10,D024821
+E0034,osteoarthritis,CONDITION,osteoarthritis,Q62736,osteoarthritis,form of arthritis caused by degeneration of joints,2.2,True,8,D010003
+E0035,disability,CONDITION,disability,Q12131,disability,"impairments, activity and participation limitations of a person",2.2,True,11,
+E0036,osteoporosis,CONDITION,osteoporosis,Q17152799,Senile osteoporosis,medical condition,3.314,True,9,
+E0037,stroke,CONDITION,stroke,Q12202,stroke,death of a region of brain cells due to poor blood flow,2.2,True,9,D020521
+E0038,frail,CONDITION,frailty,Q177171,frailty syndrome,"state of increased vulnerability to stressors, following declines in function and reserves across multiple physiologic systems",1.0,True,8,D000073496
+E0039,COPD,CONDITION,chronic obstructive pulmonary disease,Q199804,chronic obstructive pulmonary disease,lung disease involving long-term poor airflow,3.2,True,11,D029424
+E0040,adverse events,CONDITION,adverse events,,,,0.9,False,10,
+E0041,dementia,CONDITION,dementia,Q2802231,Subcortical dementia,medical condition,3.214,True,8,
+E0042,hair loss,CONDITION,hair loss,Q181391,bald head,state where most or all of hair from the head has been lost or intentionally removed,2.2,True,10,
+E0043,peripheral artery disease,CONDITION,peripheral artery disease,Q378681,peripheral artery disease,"artery disease characterized by build up of plaque in the arteries that carry blood to your head, organs, and limbs",3.2,True,11,D058729
+E0044,squat,EXERCISE,squat,Q1755746,squat,"A lower-body compound exercise where you squat and then stand back up, targeting the legs' quadriceps, hamstrings, and glutes.",2.8,True,8,
+E0045,sprint,EXERCISE,sprinting,Q624482,sprinting,running over a short distance at the top-most speed of the body in a limited period of time,3.2,True,10,
+E0046,running,EXERCISE,running,Q105674,running,activity that involves the rapid terrestrial locomotion of feet,3.414,True,10,D012420
+E0047,countermovement jump,EXERCISE,vertical jump,Q14596454,vertical jump,type of athletic field event,3.2,True,9,
+E0048,cycling,EXERCISE,cycling,Q53121,cycling,"riding a bicycle (transportation, sport, exercise, recreation...)",3.614,True,9,D001642
+E0049,walking,EXERCISE,walking,Q6537379,walking,"one of the main gaits of locomotion among legged animals, typically slower than running and other gaits; characterized by a 'vaulting' movement of the body over the legs, frequently described as an inverted pendulum",4.2,True,11,D016138
+E0050,bench press,EXERCISE,bench press,Q14093,bench press,"An exercise where you lie on a flat bench and press a barbell or dumbbells to your chest and push it upwards, targeting the chest, shoulders, and triceps.",3.2,True,11,
+E0051,leg press,EXERCISE,leg press,Q814819,leg press,weight training exercise in which a weight is pushed using the legs,3.614,True,9,
+E0052,lunge,EXERCISE,lunge,Q2302075,lunge,"An exercise where you almost get in the wedding proposal pose (but do not touch your knee to the ground), then get up, targeting the quadriceps, glutes, and hamstrings.",2.2,True,10,
+E0053,physical exercise,EXERCISE,physical exercise,Q219067,physical exercise,bodily activity that enhances or maintains physical fitness and overall health and wellness,3.2,True,11,D015444
+E0054,deadlift,EXERCISE,deadlift,Q608288,deadlift,"power sport and an exercise where you lift a barbell from the ground to hip level, targeting the hamstrings, glutes, lower back, and traps",3.614,True,7,
+E0055,leg extension,EXERCISE,leg extension,Q2588216,leg extension,"An exercise where you extend your legs by straightening your knees against resistance, targeting the quadriceps.",3.2,True,10,
+E0056,swimming,EXERCISE,swimming,Q31920,competitive swimming,water-based sport,3.2,True,8,
+E0057,biceps curl,EXERCISE,biceps curl,Q3073715,bicep curl,"An exercise where you curl dumb bells (or any weight) upward by bending your elbow, mainly targeting the biceps.",3.2,True,5,
+E0058,hip thrust,EXERCISE,hip thrust,Q139681728,hip thrust,"glute-focused exercise raising hips from the ground or bench, strengthening glutes, hamstrings, and hip extension",3.2,True,6,
+E0059,plank,EXERCISE,plank,Q3094383,plank,isometric strength exercise,2.2,True,10,
+E0060,push-up,EXERCISE,push-up,Q320575,press-up,calisthenics exercise,3.2,True,7,
+E0061,quadriceps,MUSCLE,quadriceps femoris,Q504536,quadriceps femoris muscle,leg muscle,2.0,True,10,D052097
+E0062,hamstrings,MUSCLE,hamstring,Q196002,hamstring muscles,three posterior thigh muscles,2.0,True,10,D000070633
+E0063,calves,MUSCLE,triceps surae muscle,Q431282,triceps surae,pair of muscles: gastrocnemius and the soleus,3.2,True,11,
+E0064,biceps,MUSCLE,biceps brachii,Q201363,biceps brachii,muscle of the arm,3.2,True,9,
+E0065,triceps,MUSCLE,triceps brachii,Q83379,triceps brachii muscle,muscle of the upper limb,2.0,True,11,
+E0066,glutes,MUSCLE,gluteus maximus,Q637545,gluteus maximus muscle,largest and most superficial of the three gluteal muscles,2.0,True,11,
+E0067,abductors,MUSCLE,hip abductors,,,,0.9,False,8,
+E0068,adductors,MUSCLE,adductor muscles of the hip,Q2514016,adductor muscles of the hip,group of muscles,3.2,True,5,
+E0069,abdominals,MUSCLE,rectus abdominis,Q275150,rectus abdominis muscle,paired muscle running vertically on each side of the anterior wall of the human (of some other mammals) abdomen,2.0,True,11,D017568
+E0070,chest,MUSCLE,pectoralis major,Q532798,pectoralis major,main human chest muscle,3.2,True,11,
+E0071,lower back,MUSCLE,erector spinae,Q774933,erector spinae muscles,muscle group in humans,2.0,True,9,
+E0072,protein,NUTRIENT,protein in nutrition,,,,-0.8,False,6,
+E0073,creatine,NUTRIENT,creatine,Q223600,creatine,chemical compound,3.614,True,9,D003401
+E0074,whey protein,NUTRIENT,whey protein,Q424430,whey protein,protein supplement from milk,3.614,True,10,D000067816
+E0075,carbohydrate,NUTRIENT,carbohydrate,Q11358,carbohydrate,"organic compound that consists only of carbon, hydrogen, and oxygen",3.614,True,9,D002241
+E0076,leucine,NUTRIENT,leucine,Q483745,L-leucine,chemical compound,3.614,True,9,D007930
+E0077,vitamin D,NUTRIENT,vitamin D,Q175621,vitamin D,"group of molecules derived from delta-5,7 steroids used as vitamin; also, active metabolites of said vitamin",3.614,True,9,D014807
+E0078,essential amino acids,NUTRIENT,essential amino acid,Q245282,essential amino acid,amino acid that cannot be synthesized de novo by the organism,3.2,True,11,D000601
+E0079,omega-3,NUTRIENT,omega-3 fatty acid,Q191756,omega-3 fatty acid,fatty acids with a double bond (C=C) at the third carbon atom from the end of the carbon chain,3.2,True,10,D015525
+E0080,HMB,NUTRIENT,beta-Hydroxy beta-methylbutyric acid,Q223081,beta-hydroxy beta-methylbutyric acid,chemical compound,3.614,True,5,
+E0081,caffeine,NUTRIENT,caffeine,Q60235,caffeine,chemical compound used as a stimulant,3.614,True,9,D002110
+E0082,casein,NUTRIENT,casein,Q193970,casein,mixture of proteins from the milk of mammals,3.2,True,10,D002364
+E0083,beta-alanine,NUTRIENT,beta-alanine,Q310919,β-alanine,chemical compound,3.614,True,9,D015091
+E0084,dietary fat,NUTRIENT,fat,Q127980,fat,"esters of three fatty acid chains and the alcohol glycerol, one of the three main macronutrients, also known as triglycerides",2.932,True,9,D005223
+E0085,sodium bicarbonate,NUTRIENT,sodium bicarbonate,Q179731,sodium bicarbonate,chemical compound,3.614,True,10,D017693
+E0086,muscle hypertrophy,OUTCOME,muscle hypertrophy,Q1955391,muscle hypertrophy,enlargement or overgrowth of a muscle organ,3.2,True,11,
+E0087,muscle strength,OUTCOME,muscle strength,Q3076906,muscle strength,amount of force generated by muscle contraction,3.2,True,10,D053580
+E0088,blood pressure,OUTCOME,blood pressure,Q82642,blood pressure,pressure exerted by circulating blood upon the walls of blood vessels,3.1,True,10,D001794
+E0089,flexibility,OUTCOME,flexibility,Q852220,flexibility,"anatomical range of movement in a joint or series of joints, and length in muscles that cross the joints to induce a bending movement or motion",3.0,True,10,
+E0090,fat loss,OUTCOME,weight loss,Q718113,weight loss,reduction of the total body mass,3.614,True,9,D015431
+E0091,physical function,OUTCOME,physical fitness,Q309252,physical fitness,"state of health and well-being and, more specifically, the ability to perform aspects of sports, occupations and daily activities",3.2,True,10,D010809
+E0092,cardiorespiratory fitness,OUTCOME,VO2 max,Q60354,VO2 max,"maximum rate of oxygen consumption as measured during incremental exercise, most typically on a motorized treadmill",3.2,True,9,
+E0093,body composition,OUTCOME,body composition,Q4116368,body composition,aspect of the human body,3.2,True,11,D001823
+E0094,glycemic control,OUTCOME,glycated hemoglobin,Q311213,glycated haemoglobin,form of haemoglobin chemically linked to a sugar,2.1,True,9,D006442
+E0095,quality of life,OUTCOME,quality of life,Q7268788,quality of life,notion in healthcare,2.7,True,8,
+E0096,lean mass,OUTCOME,lean body mass,Q17064264,Lean body mass,component of body composition,3.2,True,11,
+E0097,fatigue,OUTCOME,fatigue,Q9690,fatigue,medical symptom usually of physical and/or mental weakness that does not resolve with rest or sleep,2.2,True,7,D005221
+E0098,inflammation,OUTCOME,inflammation,Q14819849,inflammatory response,"immediate defensive reaction (by vertebrate tissue) to infection or injury caused by chemical or physical agents, characterized by local vasodilation, extravasation of plasma into intercellular spaces and accumulation of white blood cells",2.9,True,9,
+E0099,insulin sensitivity,OUTCOME,insulin sensitivity,,,,0.8,False,12,
+E0100,jump performance,OUTCOME,vertical jump,Q1074871,vertical jump,measure of how high an individual or athlete can elevate off the ground from a standstill,3.1,True,9,
+E0101,BMI,OUTCOME,body mass index,Q131191,body mass index,measure of relative weight based on an individual's mass and height,3.614,True,11,D015992
+E0102,muscle protein synthesis,OUTCOME,protein biosynthesis,Q211935,protein biosynthesis,"cellular metabolic process in which a protein is formed, using the sequence of a mature mRNA or circRNA molecule to specify the sequence of amino acids in a polypeptide chain",3.2,True,10,D014176
+E0103,muscle damage,OUTCOME,delayed onset muscle soreness,Q574415,delayed onset muscle soreness,pain in muscles after exercise,3.2,True,10,
+E0104,injury risk,OUTCOME,sports injury,Q2093360,sports injury,injury occurring during sports,2.2,True,10,D001265
+E0105,cholesterol,OUTCOME,cholesterol,Q2964389,serum total cholesterol level,quantity of cholesterol in blood,3.0,True,9,
+E0106,power,OUTCOME,muscle power,,,,0.8,False,11,
+E0107,sprint performance,OUTCOME,sprinting,Q624482,sprinting,running over a short distance at the top-most speed of the body in a limited period of time,3.2,True,10,
+E0108,endurance performance,OUTCOME,endurance training,Q362854,endurance training,exercising to increase endurance,2.2,True,11,D000076663
+E0109,bone density,OUTCOME,bone density,Q2304401,bone density,amount of bone mineral in bone tissue,2.2,True,10,D015519
+E0110,athletes,POPULATION,athlete,Q2066131,athlete,person who participates regularly in a sport,3.2,True,9,D056352
+E0111,patients,POPULATION,patient,Q181600,patient,person who takes a medical treatment or is subject of a case study,3.2,True,9,D010361
+E0112,women,POPULATION,woman,Q6581072,female,"to be used in ""sex or gender"" (P21) to indicate that the human subject is a female or ""semantic gender"" (P10339) to indicate that a word refers to a female person",4.2,True,9,
+E0113,men,POPULATION,man,Q6581097,male,"to be used in ""sex or gender"" (P21) to indicate that the human subject is a male or ""semantic gender"" (P10339) to indicate that a word refers to a male person",3.932,True,10,
+E0114,older adults,POPULATION,old age,Q191089,old age,consists of ages nearing or surpassing the life expectancy of human beings,3.614,True,9,
+E0115,untrained individuals,POPULATION,sedentary lifestyle,Q1349358,sedentary lifestyle,inactive lifestyle with health risks,3.2,True,11,D057185
+E0116,children and adolescents,POPULATION,adolescence,Q131774,adolescence,transitional phase between childhood and adulthood,3.2,True,9,D041923
+E0117,trained individuals,POPULATION,athlete,Q2066131,athlete,person who participates regularly in a sport,3.2,True,9,D056352
+E0118,young adults,POPULATION,young adult,Q17156455,young adult,stage of human development between adolescence and middle age (approximately 18 to 40 years old),3.932,True,8,D055815
+E0119,resistance training,TRAINING_TYPE,strength training,Q12834857,strength training,performance of physical exercises designed to improve strength,3.614,True,11,D055070
+E0120,aerobic exercise,TRAINING_TYPE,aerobic exercise,Q1152037,aerobic exercise,physical exercise of low to high intensity that depends primarily on the aerobic energy-generating process,3.614,True,11,
+E0121,HIIT,TRAINING_TYPE,high-intensity interval training,Q2756206,high-intensity interval training,exercise strategy alternating periods of short intense exercise with less-intense recovery periods,3.2,True,10,D000072696
+E0122,stretching,TRAINING_TYPE,stretching,Q1183039,stretching,form of physical exercise where a muscle is stretched to improve it,3.614,True,9,D052580
+E0123,plyometric training,TRAINING_TYPE,plyometrics,Q1425021,plyometrics,Maximum intensity explosive exercises,3.2,True,8,D059385
+E0124,combined training,TRAINING_TYPE,circuit training,Q205821,circuit training,training to develop endurance and strength simultaneously,3.2,True,10,D065327
+E0125,isometric exercise,TRAINING_TYPE,isometric exercise,Q1216236,isometric exercise,Static contraction exercise,3.2,True,10,
+E0126,blood flow restriction training,TRAINING_TYPE,blood flow restriction training,,,,-2.0,False,10,
+E0127,sprint interval training,TRAINING_TYPE,interval training,Q1558681,interval training,type of discontinuous physical training,3.614,True,11,
+E0128,strengthening,TRAINING_TYPE,strength training,Q12834857,strength training,performance of physical exercises designed to improve strength,3.614,True,11,D055070
+E0129,yoga,TRAINING_TYPE,yoga,Q9350,yoga,"group of physical, mental and spiritual practices originating from ancient India",3.2,True,11,D015013

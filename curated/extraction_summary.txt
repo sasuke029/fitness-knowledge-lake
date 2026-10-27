@@ -1,0 +1,44 @@
+EXTRACTION SUMMARY
+============================================================
+Abstracts processed        : 392
+Unique entities            : 129
+Abstract-entity links      : 2192
+Avg entities per abstract  : 5.5
+Abstracts with 0 entities  : 1
+Exercises / muscle links   : 876 / 2596
+Foods                      : 30
+
+Entities by type:
+entity_type
+BIOMARKER         10
+BODY_STRUCTURE     9
+CONDITION         24
+EXERCISE          17
+MUSCLE            11
+NUTRIENT          14
+OUTCOME           24
+POPULATION         9
+TRAINING_TYPE     11
+
+Mentions by method:
+method
+dictionary         6484
+transformer_ner     325
+
+Finding direction:
+finding
+positive        237
+inconclusive     67
+negative         66
+no_effect        22
+
+Top 5 entities per type (by number of abstracts):
+  BIOMARKER       insulin (16), glucose (10), body weight (7), heart rate (5), waist circumference (5)
+  BODY_STRUCTURE  skeletal muscle (18), knee (11), ankle (5), lower limb (3), elbow (2)
+  CONDITION       obesity (59), type 2 diabetes (52), hypertension (30), sarcopenia (26), cardiovascular disease (24)
+  EXERCISE        squat (53), sprint (26), running (15), countermovement jump (13), cycling (13)
+  MUSCLE          quadriceps (21), hamstrings (20), calves (6), biceps (5), triceps (5)
+  NUTRIENT        protein (48), creatine (43), whey protein (14), carbohydrate (8), leucine (8)
+  OUTCOME         muscle hypertrophy (100), muscle strength (89), blood pressure (47), flexibility (47), fat loss (46)
+  POPULATION      athletes (68), patients (62), women (38), men (37), older adults (37)
+  TRAINING_TYPE   resistance training (148), aerobic exercise (79), HIIT (45), stretching (43), plyometric training (37)

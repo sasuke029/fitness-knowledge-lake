@@ -1,0 +1,13 @@
+subject,relation,object,confidence,shared_studies,pmi,evidence_pmids,rationale
+stretching,IMPROVES,flexibility,0.95,39.0,2.919,32669487,Hip muscle stretching effectively improved flexibility and physical function in patients.
+resistance training,IMPROVES,muscle hypertrophy,0.98,74.0,0.971,41843416;37414459,Resistance training protocols consistently promote and enhance muscle hypertrophy compared to no exercise.
+aerobic exercise,REDUCES,obesity,0.9,35.0,1.558,36981649;28401638,Aerobic and high-intensity interval training promote fat loss and body composition improvements in obese individuals.
+resistance training,IMPROVES,muscle strength,0.98,60.0,0.836,41843416;28834797;37414459,Progressive resistance training promotes and enhances maximal muscle strength gains.
+plyometric training,IMPROVES,jump performance,0.95,14.0,3.125,31426481;29176387;36889323,Plyometric training increases vertical and horizontal jump performance in volleyball and soccer players.
+aerobic exercise,IMPROVES,fat loss,0.9,26.0,1.488,36981649;28401638,Moderate-intensity continuous aerobic exercise and HIIT induce modest body composition improvements and fat loss.
+protein,IMPROVES,muscle hypertrophy,0.95,28.0,1.193,28698222,Dietary protein supplementation significantly enhances increases in muscle size and strength during resistance exercise.
+HIIT,IMPROVES,cardiorespiratory fitness,0.95,16.0,2.078,36981649;30733142,"HIIT is an effective, time-efficient strategy for increasing cardiorespiratory fitness and developing VO2max."
+aerobic exercise,IMPROVES,cardiorespiratory fitness,0.95,20.0,1.588,38640145;36981649;30733142,Aerobic exercise and HIIT protocols effectively enhance VO2max and cardiorespiratory fitness.
+aerobic exercise,REDUCES,overweight,0.9,16.0,1.919,28401638;39724371,"Aerobic exercise training reduces body weight, body fat, and waist circumference in individuals with overweight."
+sprint,NONE,jump performance,0.8,9.0,2.997,29176387;36889323;38900173;32868678,The cited conclusions do not evaluate or establish an isolated effect of sprint exercise on jump performance.
+protein,IMPROVES,sarcopenia,0.9,13.0,2.03,40937507;38374703,Protein supplementation combined with resistance exercise improves sarcopenia outcomes by enhancing muscle mass and strength.

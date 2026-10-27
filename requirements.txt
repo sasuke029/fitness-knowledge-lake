@@ -1,0 +1,12 @@
+requests
+pandas
+transformers
+torch
+keybert
+sentence-transformers
+neo4j
+networkx
+scipy
+google-genai
+pyspark
+mlflow

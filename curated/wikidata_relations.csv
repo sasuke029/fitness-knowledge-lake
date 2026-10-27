@@ -1,0 +1,1449 @@
+entity_id,qid,property,relation,value_qid,value_label
+E0001,Q50265665,P31,instance_of,Q416997,peptide hormone
+E0001,Q50265665,P31,instance_of,Q420927,protein complex
+E0001,Q50265665,P31,instance_of,Q679692,biopharmaceutical
+E0001,Q50265665,P31,instance_of,Q3503934,hexamer
+E0001,Q50265665,P361,part_of,Q45317343,regulation of insulin secretion
+E0001,Q50265665,P361,part_of,Q45317719,Insulin processing
+E0001,Q50265665,P361,part_of,Q45318056,signaling by insulin receptor
+E0001,Q50265665,P361,part_of,Q50294393,exocytosis of Insulin
+E0001,Q50265665,P361,part_of,Q50297824,Insulin degradation
+E0001,Q50265665,P527,has_part,Q50372833,insulin A chain
+E0001,Q50265665,P527,has_part,Q56837827,insulin B chain
+E0001,Q50265665,P527,has_part,Q66738099,amino acid residue with disulfide crosslink
+E0001,Q50265665,P2175,treats_condition,Q124407,type-1 diabetes
+E0001,Q50265665,P2175,treats_condition,Q32147145,maturity-onset diabetes of the young type 2
+E0002,Q21036645,P31,instance_of,Q113145171,type of chemical entity
+E0002,Q21036645,P279,subclass_of,Q106941538,aldehydo-glucose
+E0002,Q21036645,P527,has_part,Q556,hydrogen
+E0002,Q21036645,P527,has_part,Q623,carbon
+E0002,Q21036645,P527,has_part,Q629,oxygen
+E0003,Q620876,P31,instance_of,Q37787614,person property
+E0003,Q620876,P31,instance_of,Q42014143,biomedical measurand type
+E0003,Q620876,P279,subclass_of,Q11423,mass
+E0003,Q620876,P279,subclass_of,Q66711810,body size
+E0003,Q620876,P279,subclass_of,Q104019925,biomedical measurand
+E0003,Q620876,P361,part_of,Q140456385,RDC Motor Performance
+E0003,Q620876,P2293,genetic_association,Q18028921,MC4R
+E0004,Q1073121,P31,instance_of,Q42014143,biomedical measurand type
+E0004,Q1073121,P279,subclass_of,Q11652,frequency
+E0004,Q1073121,P279,subclass_of,Q1067560,vital signs
+E0004,Q1073121,P279,subclass_of,Q1370617,measurement scale
+E0004,Q1073121,P361,part_of,Q10379,cardiology
+E0005,Q811148,P31,instance_of,Q42014143,biomedical measurand type
+E0005,Q811148,P279,subclass_of,Q28474,perimeter
+E0005,Q811148,P279,subclass_of,Q66711810,body size
+E0005,Q811148,P361,part_of,Q6656244,anthropometry
+E0005,Q811148,P361,part_of,Q140456385,RDC Motor Performance
+E0006,Q14876086,P31,instance_of,Q7187,gene
+E0006,Q14876086,P279,subclass_of,Q20747295,protein-coding gene
+E0006,Q14876086,P527,has_part,Q14876060,TORC1 complex
+E0006,Q14876086,P527,has_part,Q14876061,TORC2 complex
+E0006,Q14876086,P2293,genetic_association,Q55784953,macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome
+E0006,Q14876086,P2293,genetic_association,Q55999736,isolated focal cortical dysplasia type II
+E0007,Q28561069,P31,instance_of,Q8054,protein
+E0007,Q28561069,P279,subclass_of,Q8054,protein
+E0008,Q43041,P31,instance_of,Q78155096,family of protein complexes
+E0008,Q43041,P279,subclass_of,Q8054,protein
+E0008,Q43041,P279,subclass_of,Q412234,globin
+E0008,Q43041,P279,subclass_of,Q423350,metalloprotein
+E0008,Q43041,P361,part_of,Q14819250,hemoglobin metabolic process
+E0008,Q43041,P361,part_of,Q14820933,hemoglobin binding
+E0008,Q43041,P361,part_of,Q14852014,hemoglobin biosynthetic process
+E0008,Q43041,P361,part_of,Q22282546,hemoglobin catabolic process
+E0008,Q43041,P361,part_of,Q22290745,endocytic hemoglobin import into cell
+E0009,Q27080955,P31,instance_of,Q113145171,type of chemical entity
+E0009,Q27080955,P279,subclass_of,Q161249,DL-lactic acid
+E0010,Q27161947,P31,instance_of,Q113145171,type of chemical entity
+E0010,Q27161947,P279,subclass_of,Q186319,triglyceride
+E0010,Q27161947,P279,subclass_of,Q109923912,biogenic acyclic ester
+E0011,Q1048687,P279,subclass_of,Q7365,muscle
+E0011,Q1048687,P279,subclass_of,Q14860179,striated muscle tissue development
+E0011,Q1048687,P361,part_of,Q7060553,muscular system
+E0012,Q16178115,P31,instance_of,Q5,human
+E0013,Q168002,P31,instance_of,Q112826905,class of anatomical entity
+E0013,Q168002,P279,subclass_of,Q66516262,free lower limb segment
+E0013,Q168002,P279,subclass_of,Q112826975,particular anatomical entity
+E0014,Q133105,P31,instance_of,Q112826905,class of anatomical entity
+E0014,Q133105,P31,instance_of,Q113147341,chiral organism subdivision type
+E0014,Q133105,P279,subclass_of,Q42349020,free limb
+E0014,Q133105,P279,subclass_of,Q112826975,particular anatomical entity
+E0014,Q133105,P279,subclass_of,Q119159028,leg
+E0014,Q133105,P361,part_of,Q170494,body
+E0014,Q133105,P361,part_of,Q62513663,lower limb
+E0014,Q133105,P361,part_of,Q66516262,free lower limb segment
+E0014,Q133105,P527,has_part,Q15807,foot
+E0014,Q133105,P527,has_part,Q37425,knee
+E0014,Q133105,P527,has_part,Q129757,thigh
+E0014,Q133105,P527,has_part,Q168002,ankle
+E0014,Q133105,P527,has_part,Q8265768,lower leg
+E0014,Q133105,P2789,connects_with,Q160695,torso
+E0014,Q133105,P3094,develops_from,Q3335089,pelvic fin
+E0015,Q42586,P31,instance_of,Q112826905,class of anatomical entity
+E0015,Q42586,P31,instance_of,Q113147341,chiral organism subdivision type
+E0015,Q42586,P279,subclass_of,Q66516261,free upper limb region
+E0015,Q42586,P279,subclass_of,Q112826975,particular anatomical entity
+E0015,Q42586,P361,part_of,Q43471,arm
+E0015,Q42586,P527,has_part,Q11611456,elbow joint
+E0015,Q42586,P527,has_part,Q66527477,skin of elbow
+E0015,Q42586,P527,has_part,Q66528759,superficial fascia of elbow
+E0015,Q42586,P527,has_part,Q66592690,vasculature of elbow
+E0015,Q42586,P527,has_part,Q66592746,neural network of elbow
+E0015,Q42586,P527,has_part,Q123438129,integument of elbow
+E0016,Q9368,P31,instance_of,Q103812529,organ type
+E0016,Q9368,P31,instance_of,Q112826905,class of anatomical entity
+E0016,Q9368,P279,subclass_of,Q4672532,accessory digestive gland
+E0016,Q9368,P279,subclass_of,Q28846466,lobular organ
+E0016,Q9368,P279,subclass_of,Q112826975,particular anatomical entity
+E0016,Q9368,P279,subclass_of,Q126131070,glandular organ
+E0016,Q9368,P361,part_of,Q9649,human digestive system
+E0017,Q62513663,P279,subclass_of,Q190780,limb
+E0017,Q62513663,P361,part_of,Q170494,body
+E0017,Q62513663,P361,part_of,Q515083,extremities
+E0017,Q62513663,P527,has_part,Q133105,leg
+E0017,Q62513663,P527,has_part,Q2943862,pelvic girdle
+E0017,Q62513663,P527,has_part,Q66516262,free lower limb segment
+E0018,Q1172095,P31,instance_of,Q112826905,class of anatomical entity
+E0018,Q1172095,P31,instance_of,Q113563583,chiral ligament type
+E0018,Q1172095,P279,subclass_of,Q2490955,ligament of knee joint
+E0018,Q1172095,P361,part_of,Q7268395,quadriceps tendon
+E0018,Q1172095,P361,part_of,Q62394131,knee joint
+E0018,Q1172095,P2789,connects_with,Q4779446,apex of patella
+E0018,Q1172095,P2789,connects_with,Q7268395,quadriceps tendon
+E0018,Q1172095,P2789,connects_with,Q7850870,tuberosity of the tibia
+E0018,Q1172095,P2789,connects_with,Q66533643,subcutaneous infrapatellar bursa
+E0018,Q1172095,P2789,connects_with,Q66533653,deep infrapatellar bursa
+E0019,Q16363,P31,instance_of,Q112826905,class of anatomical entity
+E0019,Q16363,P279,subclass_of,Q66515135,subdivision of pectoral girdle
+E0019,Q16363,P279,subclass_of,Q112826975,particular anatomical entity
+E0019,Q16363,P361,part_of,Q841423,upper extremity
+E0019,Q16363,P2789,connects_with,Q9633,neck
+E0019,Q16363,P2789,connects_with,Q756066,pectoral girdle
+E0020,Q12174,P31,instance_of,Q11862829,academic discipline
+E0020,Q12174,P31,instance_of,Q87075524,health risk
+E0020,Q12174,P31,instance_of,Q112193867,type of disease
+E0020,Q12174,P31,instance_of,Q130753312,symptom type
+E0020,Q12174,P279,subclass_of,Q16956975,overnutrition
+E0020,Q12174,P1995,health_specialty,Q162606,endocrinology
+E0020,Q12174,P2176,drug_or_therapy,Q191924,D-methamphetamine
+E0020,Q12174,P2176,drug_or_therapy,Q255680,mazindol
+E0020,Q12174,P2176,drug_or_therapy,Q413147,(+)-norephedrin
+E0020,Q12174,P2176,drug_or_therapy,Q418157,phentermine
+E0020,Q12174,P2176,drug_or_therapy,Q424163,orlistat
+E0020,Q12174,P2176,drug_or_therapy,Q1649219,phendimetrazine
+E0020,Q12174,P2176,drug_or_therapy,Q2356505,(RS)-diethylpropion
+E0020,Q12174,P2176,drug_or_therapy,Q3322838,benzphetamine
+E0020,Q12174,P2176,drug_or_therapy,Q5103230,chlorphentermine
+E0020,Q12174,P2176,drug_or_therapy,Q5280905,Dirlotapide
+E0020,Q12174,P2176,drug_or_therapy,Q27261089,semaglutide
+E0020,Q12174,P2176,drug_or_therapy,Q27888442,lorcaserin hydrochloride
+E0020,Q12174,P2176,drug_or_therapy,Q110495073,weight loss treatment
+E0020,Q12174,P2293,genetic_association,Q248215,DYNC1I1
+E0020,Q12174,P2293,genetic_association,Q1340834,ECE1
+E0020,Q12174,P2293,genetic_association,Q4649948,AATK
+E0020,Q12174,P2293,genetic_association,Q4682275,ADORA3
+E0020,Q12174,P2293,genetic_association,Q5044069,CPT1A
+E0020,Q12174,P2293,genetic_association,Q5145886,COL4A1
+E0020,Q12174,P2293,genetic_association,Q5204531,DCTD
+E0020,Q12174,P2293,genetic_association,Q5573603,GPC5
+E0020,Q12174,P2293,genetic_association,Q14839826,ABO
+E0020,Q12174,P2293,genetic_association,Q14863330,BDNF
+E0020,Q12174,P2293,genetic_association,Q14864434,CYP2E1
+E0020,Q12174,P2293,genetic_association,Q14865077,SERPING1
+E0020,Q12174,P2293,genetic_association,Q14877701,SLC4A1
+E0020,Q12174,P2293,genetic_association,Q14878336,UBE3A
+E0020,Q12174,P2293,genetic_association,Q14881694,TBXAS1
+E0020,Q12174,P2293,genetic_association,Q14882921,HMOX1
+E0020,Q12174,P2293,genetic_association,Q14902310,ESR1
+E0020,Q12174,P2293,genetic_association,Q14902484,PCSK2
+E0020,Q12174,P2293,genetic_association,Q14903153,BMP2
+E0020,Q12174,P2293,genetic_association,Q14905674,DCC
+E0020,Q12174,P2293,genetic_association,Q14906427,TWIST1
+E0020,Q12174,P2293,genetic_association,Q14907479,ADCYAP1
+E0020,Q12174,P2293,genetic_association,Q14907739,UGT2B7
+E0020,Q12174,P2293,genetic_association,Q14907990,SLC30A8
+E0020,Q12174,P2293,genetic_association,Q14908063,SRL
+E0020,Q12174,P2293,genetic_association,Q14911859,CREBBP
+E0020,Q12174,P2293,genetic_association,Q14911955,GIPR
+E0020,Q12174,P2293,genetic_association,Q14912092,CD46
+E0020,Q12174,P2293,genetic_association,Q14912501,FTO
+E0020,Q12174,P2293,genetic_association,Q14912969,CHL1
+E0020,Q12174,P2293,genetic_association,Q14913016,JDP2
+E0020,Q12174,P2293,genetic_association,Q14913093,CBS
+E0020,Q12174,P2293,genetic_association,Q14914156,IL1RN
+E0020,Q12174,P2293,genetic_association,Q14914279,NPC1
+E0020,Q12174,P2293,genetic_association,Q14916168,GCH1
+E0020,Q12174,P2293,genetic_association,Q15311620,NIPBL
+E0020,Q12174,P2293,genetic_association,Q15316514,KCNN3
+E0020,Q12174,P2293,genetic_association,Q15316617,GTF2B
+E0020,Q12174,P2293,genetic_association,Q15322924,TRPC4
+E0020,Q12174,P2293,genetic_association,Q15330855,XDH
+E0020,Q12174,P2293,genetic_association,Q17709656,ADCY5
+E0020,Q12174,P2293,genetic_association,Q17709777,ADCY9
+E0020,Q12174,P2293,genetic_association,Q17848412,BICD1
+E0020,Q12174,P2293,genetic_association,Q17854514,CA8
+E0020,Q12174,P2293,genetic_association,Q17854930,CACNA2D1
+E0020,Q12174,P2293,genetic_association,Q17854978,CACNB2
+E0020,Q12174,P2293,genetic_association,Q17855648,CAMK2A
+E0020,Q12174,P2293,genetic_association,Q17859798,CDH2
+E0020,Q12174,P2293,genetic_association,Q17859830,CDH4
+E0020,Q12174,P2293,genetic_association,Q17861975,CHRNA3
+E0020,Q12174,P2293,genetic_association,Q17914010,DLG2
+E0020,Q12174,P2293,genetic_association,Q17914024,DMRT1
+E0020,Q12174,P2293,genetic_association,Q17915128,EBF1
+E0020,Q12174,P2293,genetic_association,Q17915447,ECT2
+E0020,Q12174,P2293,genetic_association,Q17916054,EFNA1
+E0020,Q12174,P2293,genetic_association,Q17916097,CELA1
+E0020,Q12174,P2293,genetic_association,Q17916236,ELAVL4
+E0020,Q12174,P2293,genetic_association,Q17917132,ERBB3
+E0020,Q12174,P2293,genetic_association,Q17917642,ETS1
+E0020,Q12174,P2293,genetic_association,Q17917649,ETV5
+E0020,Q12174,P2293,genetic_association,Q17917694,EXT1
+E0020,Q12174,P2293,genetic_association,Q18016416,ADSS2
+E0020,Q12174,P2293,genetic_association,Q18024807,FUT2
+E0020,Q12174,P2293,genetic_association,Q18025101,GABRB1
+E0020,Q12174,P2293,genetic_association,Q18026244,GNAT2
+E0020,Q12174,P2293,genetic_association,Q18026481,GRIA1
+E0020,Q12174,P2293,genetic_association,Q18026492,GRID2
+E0020,Q12174,P2293,genetic_association,Q18026807,HBBP1
+E0020,Q12174,P2293,genetic_association,Q18026870,NCKAP1L
+E0020,Q12174,P2293,genetic_association,Q18027475,ICA1
+E0020,Q12174,P2293,genetic_association,Q18027576,SP110
+E0020,Q12174,P2293,genetic_association,Q18027645,IFNGR2
+E0020,Q12174,P2293,genetic_association,Q18027898,ILF3
+E0020,Q12174,P2293,genetic_association,Q18028073,ITPR1
+E0020,Q12174,P2293,genetic_association,Q18028136,KCNB1
+E0020,Q12174,P2293,genetic_association,Q18028304,KLKB1
+E0020,Q12174,P2293,genetic_association,Q18028350,KPNA3
+E0020,Q12174,P2293,genetic_association,Q18028566,ABLIM1
+E0020,Q12174,P2293,genetic_association,Q18028644,LPP
+E0020,Q12174,P2293,genetic_association,Q18028894,MATK
+E0020,Q12174,P2293,genetic_association,Q18029402,MYO1B
+E0020,Q12174,P2293,genetic_association,Q18029694,MYB
+E0020,Q12174,P2293,genetic_association,Q18029805,MYO10
+E0020,Q12174,P2293,genetic_association,Q18029821,PPP1R12B
+E0020,Q12174,P2293,genetic_association,Q18029847,NAP1L1
+E0020,Q12174,P2293,genetic_association,Q18029872,NCAM2
+E0020,Q12174,P2293,genetic_association,Q18029917,NDUFA8
+E0020,Q12174,P2293,genetic_association,Q18030218,NRF1
+E0020,Q12174,P2293,genetic_association,Q18030356,PAX5
+E0020,Q12174,P2293,genetic_association,Q18030378,PCDH9
+E0020,Q12174,P2293,genetic_association,Q18030409,PDE4D
+E0020,Q12174,P2293,genetic_association,Q18030560,PIP4K2A
+E0020,Q12174,P2293,genetic_association,Q18030571,PKP2
+E0020,Q12174,P2293,genetic_association,Q18030642,POLD1
+E0020,Q12174,P2293,genetic_association,Q18030785,PRKG1
+E0020,Q12174,P2293,genetic_association,Q18030799,MAP2K5
+E0020,Q12174,P2293,genetic_association,Q18030807,PRM1
+E0020,Q12174,P2293,genetic_association,Q18030938,PTPRD
+E0020,Q12174,P2293,genetic_association,Q18030950,PTPRN2
+E0020,Q12174,P2293,genetic_association,Q18030965,PVALB
+E0020,Q12174,P2293,genetic_association,Q18031056,RBBP6
+E0020,Q12174,P2293,genetic_association,Q18031100,RFC5
+E0020,Q12174,P2293,genetic_association,Q18031117,RGS7
+E0020,Q12174,P2293,genetic_association,Q18031156,RNF2
+E0020,Q12174,P2293,genetic_association,Q18031334,RSU1
+E0020,Q12174,P2293,genetic_association,Q18031341,RYR2
+E0020,Q12174,P2293,genetic_association,Q18031360,S100P
+E0020,Q12174,P2293,genetic_association,Q18031549,SLC8A1
+E0020,Q12174,P2293,genetic_association,Q18031587,SLIT1
+E0020,Q12174,P2293,genetic_association,Q18031635,SNRPN
+E0020,Q12174,P2293,genetic_association,Q18031692,SPTB
+E0020,Q12174,P2293,genetic_association,Q18031809,SYT1
+E0020,Q12174,P2293,genetic_association,Q18031953,TFAP2B
+E0020,Q12174,P2293,genetic_association,Q18031996,TIMP2
+E0020,Q12174,P2293,genetic_association,Q18032024,TMOD1
+E0020,Q12174,P2293,genetic_association,Q18032199,TSC2
+E0020,Q12174,P2293,genetic_association,Q18032648,SLMAP
+E0020,Q12174,P2293,genetic_association,Q18033112,KMO
+E0020,Q12174,P2293,genetic_association,Q18033169,UNC5C
+E0020,Q12174,P2293,genetic_association,Q18033233,B3GALT1
+E0020,Q12174,P2293,genetic_association,Q18033774,PKD2L1
+E0020,Q12174,P2293,genetic_association,Q18033776,SEMA5A
+E0020,Q12174,P2293,genetic_association,Q18033875,SLC6A5
+E0020,Q12174,P2293,genetic_association,Q18033909,DCLK1
+E0020,Q12174,P2293,genetic_association,Q18034027,ITGBL1
+E0020,Q12174,P2293,genetic_association,Q18034037,NRXN3
+E0020,Q12174,P2293,genetic_association,Q18034042,TM9SF2
+E0020,Q12174,P2293,genetic_association,Q18034058,TGFBRAP1
+E0020,Q12174,P2293,genetic_association,Q18034584,GREB1
+E0020,Q12174,P2293,genetic_association,Q18034615,NOS1AP
+E0020,Q12174,P2293,genetic_association,Q18034627,HDAC9
+E0020,Q12174,P2293,genetic_association,Q18034638,ZNF536
+E0020,Q12174,P2293,genetic_association,Q18034642,PHACTR2
+E0020,Q12174,P2293,genetic_association,Q18034688,SCRN1
+E0020,Q12174,P2293,genetic_association,Q18034740,MAGI2
+E0020,Q12174,P2293,genetic_association,Q18034882,KBTBD11
+E0020,Q12174,P2293,genetic_association,Q18034925,NUP153
+E0020,Q12174,P2293,genetic_association,Q18034993,ABCC9
+E0020,Q12174,P2293,genetic_association,Q18035011,GPC6
+E0020,Q12174,P2293,genetic_association,Q18035035,ARPC2
+E0020,Q12174,P2293,genetic_association,Q18035082,FARP1
+E0020,Q12174,P2293,genetic_association,Q18035122,PATJ
+E0020,Q12174,P2293,genetic_association,Q18035326,NPM2
+E0020,Q12174,P2293,genetic_association,Q18035334,SEMA3A
+E0020,Q12174,P2293,genetic_association,Q18035350,DLC1
+E0020,Q12174,P2293,genetic_association,Q18035501,TACC2
+E0020,Q12174,P2293,genetic_association,Q18035502,SORBS1
+E0020,Q12174,P2293,genetic_association,Q18035589,TSBP1
+E0020,Q12174,P2293,genetic_association,Q18035630,TCFL5
+E0020,Q12174,P2293,genetic_association,Q18036452,TREX1
+E0020,Q12174,P2293,genetic_association,Q18036575,DENND3
+E0020,Q12174,P2293,genetic_association,Q18036609,SHANK2
+E0020,Q12174,P2293,genetic_association,Q18036643,CEP152
+E0020,Q12174,P2293,genetic_association,Q18036645,IGSF9B
+E0020,Q12174,P2293,genetic_association,Q18036664,UNC13A
+E0020,Q12174,P2293,genetic_association,Q18036665,MYO16
+E0020,Q12174,P2293,genetic_association,Q18036672,SAMD4A
+E0020,Q12174,P2293,genetic_association,Q18036675,PDZD2
+E0020,Q12174,P2293,genetic_association,Q18036690,NMNAT2
+E0020,Q12174,P2293,genetic_association,Q18036702,HECW1
+E0020,Q12174,P2293,genetic_association,Q18036733,CUL9
+E0020,Q12174,P2293,genetic_association,Q18036957,MPRIP
+E0020,Q12174,P2293,genetic_association,Q18036984,FBXL7
+E0020,Q12174,P2293,genetic_association,Q18036999,ZC3H4
+E0020,Q12174,P2293,genetic_association,Q18037030,ASTN2
+E0020,Q12174,P2293,genetic_association,Q18037055,CLEC16A
+E0020,Q12174,P2293,genetic_association,Q18037060,MTUS2
+E0020,Q12174,P2293,genetic_association,Q18037069,ANKS1A
+E0020,Q12174,P2293,genetic_association,Q18037120,FAM189A1
+E0020,Q12174,P2293,genetic_association,Q18037123,PSD3
+E0020,Q12174,P2293,genetic_association,Q18037595,CADM1
+E0020,Q12174,P2293,genetic_association,Q18037683,DSTYK
+E0020,Q12174,P2293,genetic_association,Q18037755,WHRN
+E0020,Q12174,P2293,genetic_association,Q18037840,SH2B1
+E0020,Q12174,P2293,genetic_association,Q18037864,MOXD1
+E0020,Q12174,P2293,genetic_association,Q18037868,ZZZ3
+E0020,Q12174,P2293,genetic_association,Q18037889,SIPA1L1
+E0020,Q12174,P2293,genetic_association,Q18037897,CNTNAP2
+E0020,Q12174,P2293,genetic_association,Q18037904,AUTS2
+E0020,Q12174,P2293,genetic_association,Q18038119,CCDC69
+E0020,Q12174,P2293,genetic_association,Q18038226,EHF
+E0020,Q12174,P2293,genetic_association,Q18038298,AATF
+E0020,Q12174,P2293,genetic_association,Q18038318,TBL2
+E0020,Q12174,P2293,genetic_association,Q18038823,SLCO3A1
+E0020,Q12174,P2293,genetic_association,Q18039623,CTNNA3
+E0020,Q12174,P2293,genetic_association,Q18039666,TFPT
+E0020,Q12174,P2293,genetic_association,Q18039714,PKN3
+E0020,Q12174,P2293,genetic_association,Q18039741,MDFIC
+E0020,Q12174,P2293,genetic_association,Q18039766,NXPH1
+E0020,Q12174,P2293,genetic_association,Q18039812,NOX4
+E0020,Q12174,P2293,genetic_association,Q18039842,ARHGEF3
+E0020,Q12174,P2293,genetic_association,Q18039878,SPOCK3
+E0020,Q12174,P2293,genetic_association,Q18039881,NTM
+E0020,Q12174,P2293,genetic_association,Q18039945,WDPCP
+E0020,Q12174,P2293,genetic_association,Q18039975,CRYL1
+E0020,Q12174,P2293,genetic_association,Q18040102,GLRX5
+E0020,Q12174,P2293,genetic_association,Q18040397,HDAC7
+E0020,Q12174,P2293,genetic_association,Q18040412,PCF11
+E0020,Q12174,P2293,genetic_association,Q18040542,WWOX
+E0020,Q12174,P2293,genetic_association,Q18040719,MYO3A
+E0020,Q12174,P2293,genetic_association,Q18041009,RIN2
+E0020,Q12174,P2293,genetic_association,Q18041070,ANKRD16
+E0020,Q12174,P2293,genetic_association,Q18041088,CRCT1
+E0020,Q12174,P2293,genetic_association,Q18041136,VSIG10
+E0020,Q12174,P2293,genetic_association,Q18041210,RBFOX1
+E0020,Q12174,P2293,genetic_association,Q18041216,TMED9
+E0020,Q12174,P2293,genetic_association,Q18041288,BCAS3
+E0020,Q12174,P2293,genetic_association,Q18041364,CDKAL1
+E0020,Q12174,P2293,genetic_association,Q18041512,CRYBG2
+E0020,Q12174,P2293,genetic_association,Q18041544,SAMD4B
+E0020,Q12174,P2293,genetic_association,Q18041572,ARMC4
+E0020,Q12174,P2293,genetic_association,Q18041607,ARHGEF10L
+E0020,Q12174,P2293,genetic_association,Q18041645,PLEKHG6
+E0020,Q12174,P2293,genetic_association,Q18041679,PANK4
+E0020,Q12174,P2293,genetic_association,Q18041691,KIRREL1
+E0020,Q12174,P2293,genetic_association,Q18041720,FGGY
+E0020,Q12174,P2293,genetic_association,Q18041732,RHOT1
+E0020,Q12174,P2293,genetic_association,Q18041753,SLC29A3
+E0020,Q12174,P2293,genetic_association,Q18041775,NIPSNAP3B
+E0020,Q12174,P2293,genetic_association,Q18041856,SOX6
+E0020,Q12174,P2293,genetic_association,Q18041944,ZNF446
+E0020,Q12174,P2293,genetic_association,Q18041972,RADIL
+E0020,Q12174,P2293,genetic_association,Q18041995,CEP72
+E0020,Q12174,P2293,genetic_association,Q18042069,HR
+E0020,Q12174,P2293,genetic_association,Q18042077,BDP1
+E0020,Q12174,P2293,genetic_association,Q18042559,DPYSL5
+E0020,Q12174,P2293,genetic_association,Q18042565,ANKS1B
+E0020,Q12174,P2293,genetic_association,Q18042617,PAK6
+E0020,Q12174,P2293,genetic_association,Q18042664,MRPS22
+E0020,Q12174,P2293,genetic_association,Q18042708,OTUD7B
+E0020,Q12174,P2293,genetic_association,Q18042886,ANO2
+E0020,Q12174,P2293,genetic_association,Q18042901,CAMK1D
+E0020,Q12174,P2293,genetic_association,Q18042925,PAK5
+E0020,Q12174,P2293,genetic_association,Q18043047,PPM1H
+E0020,Q12174,P2293,genetic_association,Q18043072,PLEKHG1
+E0020,Q12174,P2293,genetic_association,Q18043088,LRFN2
+E0020,Q12174,P2293,genetic_association,Q18043110,RPTOR
+E0020,Q12174,P2293,genetic_association,Q18043125,SORCS2
+E0020,Q12174,P2293,genetic_association,Q18043134,CC2D2A
+E0020,Q12174,P2293,genetic_association,Q18043139,NCEH1
+E0020,Q12174,P2293,genetic_association,Q18043142,LRRC7
+E0020,Q12174,P2293,genetic_association,Q18044275,STIM2
+E0020,Q12174,P2293,genetic_association,Q18044809,SQOR
+E0020,Q12174,P2293,genetic_association,Q18045327,BACH2
+E0020,Q12174,P2293,genetic_association,Q18045382,HPSE2
+E0020,Q12174,P2293,genetic_association,Q18045467,SLC22A23
+E0020,Q12174,P2293,genetic_association,Q18045477,PKNOX2
+E0020,Q12174,P2293,genetic_association,Q18045546,LHPP
+E0020,Q12174,P2293,genetic_association,Q18045547,SLC28A3
+E0020,Q12174,P2293,genetic_association,Q18045594,CARD9
+E0020,Q12174,P2293,genetic_association,Q18045627,RAB17
+E0020,Q12174,P2293,genetic_association,Q18045682,CSMD1
+E0020,Q12174,P2293,genetic_association,Q18045729,SMYD3
+E0020,Q12174,P2293,genetic_association,Q18045844,NBEAL1
+E0020,Q12174,P2293,genetic_association,Q18045846,RTN4R
+E0020,Q12174,P2293,genetic_association,Q18046117,NOX5
+E0020,Q12174,P2293,genetic_association,Q18046182,SPAG16
+E0020,Q12174,P2293,genetic_association,Q18046206,HMBOX1
+E0020,Q12174,P2293,genetic_association,Q18046300,WDR59
+E0020,Q12174,P2293,genetic_association,Q18046312,TTLL7
+E0020,Q12174,P2293,genetic_association,Q18046540,UBTD1
+E0020,Q12174,P2293,genetic_association,Q18046576,BICC1
+E0020,Q12174,P2293,genetic_association,Q18046582,CCDC33
+E0020,Q12174,P2293,genetic_association,Q18046652,ALPK1
+E0020,Q12174,P2293,genetic_association,Q18046678,EDEM3
+E0020,Q12174,P2293,genetic_association,Q18046702,CPEB4
+E0020,Q12174,P2293,genetic_association,Q18046721,KCNIP4
+E0020,Q12174,P2293,genetic_association,Q18046745,PBX4
+E0020,Q12174,P2293,genetic_association,Q18046806,EEPD1
+E0020,Q12174,P2293,genetic_association,Q18046841,COLEC12
+E0020,Q12174,P2293,genetic_association,Q18047088,DOCK8
+E0020,Q12174,P2293,genetic_association,Q18047163,MXD3
+E0020,Q12174,P2293,genetic_association,Q18047169,ARHGAP24
+E0020,Q12174,P2293,genetic_association,Q18047182,FAM110A
+E0020,Q12174,P2293,genetic_association,Q18047238,TRAPPC9
+E0020,Q12174,P2293,genetic_association,Q18047311,SLC25A2
+E0020,Q12174,P2293,genetic_association,Q18047860,RNFT2
+E0020,Q12174,P2293,genetic_association,Q18048027,RHPN2
+E0020,Q12174,P2293,genetic_association,Q18048035,STON2
+E0020,Q12174,P2293,genetic_association,Q18048056,FHDC1
+E0020,Q12174,P2293,genetic_association,Q18048093,UMODL1
+E0020,Q12174,P2293,genetic_association,Q18048105,NAV1
+E0020,Q12174,P2293,genetic_association,Q18048106,NAV2
+E0020,Q12174,P2293,genetic_association,Q18048488,DDX60L
+E0020,Q12174,P2293,genetic_association,Q18048523,COL23A1
+E0020,Q12174,P2293,genetic_association,Q18048527,UBXN11
+E0020,Q12174,P2293,genetic_association,Q18048616,ZNF585B
+E0020,Q12174,P2293,genetic_association,Q18048640,SPECC1
+E0020,Q12174,P2293,genetic_association,Q18048686,PKHD1L1
+E0020,Q12174,P2293,genetic_association,Q18048880,NACC1
+E0020,Q12174,P2293,genetic_association,Q18049080,GALNT13
+E0020,Q12174,P2293,genetic_association,Q18049220,C8orf34
+E0020,Q12174,P2293,genetic_association,Q18049238,NIBAN1
+E0020,Q12174,P2293,genetic_association,Q18049299,TMC2
+E0020,Q12174,P2293,genetic_association,Q18049300,RLN3
+E0020,Q12174,P2293,genetic_association,Q18049381,SLC36A4
+E0020,Q12174,P2293,genetic_association,Q18049386,TMEM45B
+E0020,Q12174,P2293,genetic_association,Q18049666,NLRP8
+E0020,Q12174,P2293,genetic_association,Q18049758,C2CD4C
+E0020,Q12174,P2293,genetic_association,Q18049956,TMEM18
+E0020,Q12174,P2293,genetic_association,Q18049968,ACMSD
+E0020,Q12174,P2293,genetic_association,Q18050472,PPARGC1B
+E0020,Q12174,P2293,genetic_association,Q18050505,AFAP1L1
+E0020,Q12174,P2293,genetic_association,Q18050606,B3GAT2
+E0020,Q12174,P2293,genetic_association,Q18050697,SGCZ
+E0020,Q12174,P2293,genetic_association,Q18050821,MYO3B
+E0020,Q12174,P2293,genetic_association,Q18050866,ZBTB46
+E0020,Q12174,P2293,genetic_association,Q18050946,MACROD2
+E0020,Q12174,P2293,genetic_association,Q18051063,MPP7
+E0020,Q12174,P2293,genetic_association,Q18051095,LAYN
+E0020,Q12174,P2293,genetic_association,Q18051388,SERPINA12
+E0020,Q12174,P2293,genetic_association,Q18051457,GSG1L
+E0020,Q12174,P2293,genetic_association,Q18051824,ATP8B3
+E0020,Q12174,P2293,genetic_association,Q18051841,SAMD13
+E0020,Q12174,P2293,genetic_association,Q18051862,CCDC27
+E0020,Q12174,P2293,genetic_association,Q18052225,SLC25A48
+E0020,Q12174,P2293,genetic_association,Q18052265,MBOAT1
+E0020,Q12174,P2293,genetic_association,Q18052365,LINGO2
+E0020,Q12174,P2293,genetic_association,Q18052370,AK8
+E0020,Q12174,P2293,genetic_association,Q18052377,RASEF
+E0020,Q12174,P2293,genetic_association,Q18052451,DEUP1
+E0020,Q12174,P2293,genetic_association,Q18052481,TMEM229B
+E0020,Q12174,P2293,genetic_association,Q18052491,MDGA2
+E0020,Q12174,P2293,genetic_association,Q18052509,FSIP1
+E0020,Q12174,P2293,genetic_association,Q18053009,CLYBL
+E0020,Q12174,P2293,genetic_association,Q18053056,METTL15
+E0020,Q12174,P2293,genetic_association,Q18053078,DCP1B
+E0020,Q12174,P2293,genetic_association,Q18053142,FYB2
+E0020,Q12174,P2293,genetic_association,Q18053460,RASGEF1A
+E0020,Q12174,P2293,genetic_association,Q18053504,KIF6
+E0020,Q12174,P2293,genetic_association,Q18053538,BRAT1
+E0020,Q12174,P2293,genetic_association,Q18053590,MAPK15
+E0020,Q12174,P2293,genetic_association,Q18053691,RICTOR
+E0020,Q12174,P2293,genetic_association,Q18053695,IPMK
+E0020,Q12174,P2293,genetic_association,Q18053699,CADM2
+E0020,Q12174,P2293,genetic_association,Q18053782,CFAP299
+E0020,Q12174,P2293,genetic_association,Q18053973,HS6ST3
+E0020,Q12174,P2293,genetic_association,Q18054353,CYB561D1
+E0020,Q12174,P2293,genetic_association,Q18054365,BTBD8
+E0020,Q12174,P2293,genetic_association,Q18054420,EPHA6
+E0020,Q12174,P2293,genetic_association,Q18054763,TPRN
+E0020,Q12174,P2293,genetic_association,Q18055255,FAM19A2
+E0020,Q12174,P2293,genetic_association,Q18055892,GPR141
+E0020,Q12174,P2293,genetic_association,Q18056164,LHFPL3
+E0020,Q12174,P2293,genetic_association,Q18056481,SHISA6
+E0020,Q12174,P2293,genetic_association,Q18056527,ZNF470
+E0020,Q12174,P2293,genetic_association,Q18056535,TMEM82
+E0020,Q12174,P2293,genetic_association,Q18056715,CFAP77
+E0020,Q12174,P2293,genetic_association,Q18056808,OR5T3
+E0020,Q12174,P2293,genetic_association,Q18057391,AGMO
+E0020,Q12174,P2293,genetic_association,Q18057689,KLHL31
+E0020,Q12174,P2293,genetic_association,Q18058211,ACBD7
+E0020,Q12174,P2293,genetic_association,Q18058955,FBXO47
+E0020,Q12174,P2293,genetic_association,Q18060170,TPTE2P1
+E0020,Q12174,P2293,genetic_association,Q18257565,PUM3
+E0020,Q12174,P2293,genetic_association,Q18298365,FCSK
+E0020,Q12174,P2293,genetic_association,Q20763432,LOC150935
+E0020,Q12174,P2293,genetic_association,Q20767108,FLJ33534
+E0020,Q12174,P2293,genetic_association,Q20781641,VSTM2B-DT
+E0020,Q12174,P2293,genetic_association,Q20781700,LINC02843
+E0020,Q12174,P2293,genetic_association,Q20785768,LGALS17A
+E0020,Q12174,P2293,genetic_association,Q20970098,PLPPR5
+E0020,Q12174,P2293,genetic_association,Q20970198,GMDS
+E0021,Q3025883,P31,instance_of,Q112193867,type of disease
+E0021,Q3025883,P279,subclass_of,Q12206,diabetes
+E0021,Q3025883,P361,part_of,Q12206,diabetes
+E0021,Q3025883,P780,symptom,Q635195,polydipsia
+E0021,Q3025883,P780,symptom,Q653267,polyphagia
+E0021,Q3025883,P780,symptom,Q1124286,polyuria
+E0021,Q3025883,P1995,health_specialty,Q162606,endocrinology
+E0021,Q3025883,P1995,health_specialty,Q3505712,family medicine
+E0021,Q3025883,P2176,drug_or_therapy,Q19484,metformin
+E0021,Q3025883,P2176,drug_or_therapy,Q288280,ACE inhibitor
+E0021,Q3025883,P2176,drug_or_therapy,Q747883,physical activity
+E0021,Q3025883,P2176,drug_or_therapy,Q954845,statin
+E0021,Q3025883,P2176,drug_or_therapy,Q5906358,healthy diet
+E0021,Q3025883,P2293,genetic_association,Q407983,ACHE
+E0021,Q3025883,P2293,genetic_association,Q5173299,CRHR2
+E0021,Q3025883,P2293,genetic_association,Q11931131,LAMA1
+E0021,Q3025883,P2293,genetic_association,Q14865150,KCNQ1
+E0021,Q3025883,P2293,genetic_association,Q14905337,CR2
+E0021,Q3025883,P2293,genetic_association,Q14907337,SYK
+E0021,Q3025883,P2293,genetic_association,Q14907990,SLC30A8
+E0021,Q3025883,P2293,genetic_association,Q14911562,TGFBR3
+E0021,Q3025883,P2293,genetic_association,Q14912054,KCNJ11
+E0021,Q3025883,P2293,genetic_association,Q14912501,FTO
+E0021,Q3025883,P2293,genetic_association,Q14913892,TCF7L2
+E0021,Q3025883,P2293,genetic_association,Q14914217,SRR
+E0021,Q3025883,P2293,genetic_association,Q17709656,ADCY5
+E0021,Q3025883,P2293,genetic_association,Q17912672,DGKB
+E0021,Q3025883,P2293,genetic_association,Q18026437,GRK5
+E0021,Q3025883,P2293,genetic_association,Q18027054,HNF4A
+E0021,Q3025883,P2293,genetic_association,Q18028575,LIMK2
+E0021,Q3025883,P2293,genetic_association,Q18029577,MTNR1B
+E0021,Q3025883,P2293,genetic_association,Q18030454,PEPD
+E0021,Q3025883,P2293,genetic_association,Q18030600,PLS1
+E0021,Q3025883,P2293,genetic_association,Q18030678,PPARD
+E0021,Q3025883,P2293,genetic_association,Q18030938,PTPRD
+E0021,Q3025883,P2293,genetic_association,Q18031160,RNF6
+E0021,Q3025883,P2293,genetic_association,Q18031497,ST6GAL1
+E0021,Q3025883,P2293,genetic_association,Q18031867,HNF1A
+E0021,Q3025883,P2293,genetic_association,Q18031868,HNF1B
+E0021,Q3025883,P2293,genetic_association,Q18032258,UBE2E2
+E0021,Q3025883,P2293,genetic_association,Q18032353,WFS1
+E0021,Q3025883,P2293,genetic_association,Q18034380,VPS26A
+E0021,Q3025883,P2293,genetic_association,Q18034725,ELMO1
+E0021,Q3025883,P2293,genetic_association,Q18035049,RASGRP1
+E0021,Q3025883,P2293,genetic_association,Q18035112,MPHOSPH9
+E0021,Q3025883,P2293,genetic_association,Q18035210,MAEA
+E0021,Q3025883,P2293,genetic_association,Q18035328,HMG20A
+E0021,Q3025883,P2293,genetic_association,Q18035557,IGF2BP2
+E0021,Q3025883,P2293,genetic_association,Q18036138,FAF1
+E0021,Q3025883,P2293,genetic_association,Q18037095,SASH1
+E0021,Q3025883,P2293,genetic_association,Q18038071,GPSM1
+E0021,Q3025883,P2293,genetic_association,Q18040390,PEX5L
+E0021,Q3025883,P2293,genetic_association,Q18041137,ARL15
+E0021,Q3025883,P2293,genetic_association,Q18041364,CDKAL1
+E0021,Q3025883,P2293,genetic_association,Q18041478,MARCHF1
+E0021,Q3025883,P2293,genetic_association,Q18042957,ZMIZ1
+E0021,Q3025883,P2293,genetic_association,Q18044847,RHOU
+E0021,Q3025883,P2293,genetic_association,Q18045465,ZFAND3
+E0021,Q3025883,P2293,genetic_association,Q18045480,THADA
+E0021,Q3025883,P2293,genetic_association,Q18046802,CMIP
+E0021,Q3025883,P2293,genetic_association,Q18047409,PCBD2
+E0021,Q3025883,P2293,genetic_association,Q18048587,CCNQ
+E0021,Q3025883,P2293,genetic_association,Q18048662,DNER
+E0021,Q3025883,P2293,genetic_association,Q18048677,CCDC102A
+E0021,Q3025883,P2293,genetic_association,Q18052365,LINGO2
+E0021,Q3025883,P2293,genetic_association,Q18052870,GLIS3
+E0021,Q3025883,P2293,genetic_association,Q18053209,SLC16A13
+E0021,Q3025883,P2293,genetic_association,Q18053535,JAZF1
+E0021,Q3025883,P2293,genetic_association,Q18053854,TCERG1L
+E0021,Q3025883,P2293,genetic_association,Q20970208,PPARG
+E0021,Q3025883,P5642,risk_factor,Q12174,obesity
+E0021,Q3025883,P5642,risk_factor,Q662860,smoking
+E0022,Q41861,P31,instance_of,Q112193867,type of disease
+E0022,Q41861,P31,instance_of,Q112965645,symptom or sign
+E0022,Q41861,P279,subclass_of,Q1441305,clinical sign
+E0022,Q41861,P279,subclass_of,Q18965518,artery disease
+E0022,Q41861,P279,subclass_of,Q95566669,hypertension
+E0022,Q41861,P1542,has_effect,Q181754,heart failure
+E0022,Q41861,P1995,health_specialty,Q3505712,family medicine
+E0022,Q41861,P1995,health_specialty,Q119160083,hypertensiology
+E0022,Q41861,P2176,drug_or_therapy,Q39111,nifedipine
+E0022,Q41861,P2176,drug_or_therapy,Q155472,valsartan
+E0022,Q41861,P2176,drug_or_therapy,Q221520,triamterene
+E0022,Q41861,P2176,drug_or_therapy,Q275926,bumetanide
+E0022,Q41861,P2176,drug_or_therapy,Q277785,perindopril
+E0022,Q41861,P2176,drug_or_therapy,Q280786,terazosin
+E0022,Q41861,P2176,drug_or_therapy,Q321285,ubidecarenone
+E0022,Q41861,P2176,drug_or_therapy,Q388801,furosemide
+E0022,Q41861,P2176,drug_or_therapy,Q407841,reserpine
+E0022,Q41861,P2176,drug_or_therapy,Q409468,(RS)-metoprolol
+E0022,Q41861,P2176,drug_or_therapy,Q410074,losartan
+E0022,Q41861,P2176,drug_or_therapy,Q410291,verapamil
+E0022,Q41861,P2176,drug_or_therapy,Q411325,atenolol
+E0022,Q41861,P2176,drug_or_therapy,Q411347,amlodipine
+E0022,Q41861,P2176,drug_or_therapy,Q412208,lisinopril
+E0022,Q41861,P2176,drug_or_therapy,Q412221,clonidine
+E0022,Q41861,P2176,drug_or_therapy,Q412515,bisoprolol
+E0022,Q41861,P2176,drug_or_therapy,Q412534,carvedilol
+E0022,Q41861,P2176,drug_or_therapy,Q412621,methyldopa
+E0022,Q41861,P2176,drug_or_therapy,Q412666,ramipril
+E0022,Q41861,P2176,drug_or_therapy,Q413994,(S)-(−)-timolol
+E0022,Q41861,P2176,drug_or_therapy,Q414873,isradipine
+E0022,Q41861,P2176,drug_or_therapy,Q414904,aliskiren
+E0022,Q41861,P2176,drug_or_therapy,Q415970,candesartan
+E0022,Q41861,P2176,drug_or_therapy,Q418101,pindolol
+E0022,Q41861,P2176,drug_or_therapy,Q418130,nebivolol
+E0022,Q41861,P2176,drug_or_therapy,Q418139,esmolol
+E0022,Q41861,P2176,drug_or_therapy,Q418571,ethacrynic acid
+E0022,Q41861,P2176,drug_or_therapy,Q418857,acebutolol
+E0022,Q41861,P2176,drug_or_therapy,Q419824,phenoxybenzamine
+E0022,Q41861,P2176,drug_or_therapy,Q419939,doxazosin
+E0022,Q41861,P2176,drug_or_therapy,Q419948,torasemide
+E0022,Q41861,P2176,drug_or_therapy,Q419987,hydralazine
+E0022,Q41861,P2176,drug_or_therapy,Q419995,amiloride
+E0022,Q41861,P2176,drug_or_therapy,Q420262,rivaroxaban
+E0022,Q41861,P2176,drug_or_therapy,Q420360,phentolamine
+E0022,Q41861,P2176,drug_or_therapy,Q420644,felodipine
+E0022,Q41861,P2176,drug_or_therapy,Q420673,guanethidine
+E0022,Q41861,P2176,drug_or_therapy,Q421119,captopril
+E0022,Q41861,P2176,drug_or_therapy,Q421156,olmesartan
+E0022,Q41861,P2176,drug_or_therapy,Q422185,enalapril
+E0022,Q41861,P2176,drug_or_therapy,Q422188,spironolactone
+E0022,Q41861,P2176,drug_or_therapy,Q422229,diltiazem
+E0022,Q41861,P2176,drug_or_therapy,Q423364,propranolol
+E0022,Q41861,P2176,drug_or_therapy,Q423804,eplerenone
+E0022,Q41861,P2176,drug_or_therapy,Q423930,hydrochlorothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q424165,minoxidil
+E0022,Q41861,P2176,drug_or_therapy,Q424952,nadolol
+E0022,Q41861,P2176,drug_or_therapy,Q425289,chlorthalidone
+E0022,Q41861,P2176,drug_or_therapy,Q425293,fosinopril
+E0022,Q41861,P2176,drug_or_therapy,Q425296,prazosin
+E0022,Q41861,P2176,drug_or_therapy,Q546434,carteolol
+E0022,Q41861,P2176,drug_or_therapy,Q592802,benazepril
+E0022,Q41861,P2176,drug_or_therapy,Q596022,quinapril
+E0022,Q41861,P2176,drug_or_therapy,Q729213,nicardipine
+E0022,Q41861,P2176,drug_or_therapy,Q733186,telmisartan
+E0022,Q41861,P2176,drug_or_therapy,Q784717,eprosartan
+E0022,Q41861,P2176,drug_or_therapy,Q794162,betaxolol
+E0022,Q41861,P2176,drug_or_therapy,Q929420,trandolapril
+E0022,Q41861,P2176,drug_or_therapy,Q944244,penbutolol
+E0022,Q41861,P2176,drug_or_therapy,Q947266,irbesartan
+E0022,Q41861,P2176,drug_or_therapy,Q958087,labetalol
+E0022,Q41861,P2176,drug_or_therapy,Q1078392,indapamide
+E0022,Q41861,P2176,drug_or_therapy,Q1169164,(RS)-bendroflumethiazide
+E0022,Q41861,P2176,drug_or_therapy,Q1169561,metolazone
+E0022,Q41861,P2176,drug_or_therapy,Q2072745,trichlormethiazide
+E0022,Q41861,P2176,drug_or_therapy,Q2291605,moexipril
+E0022,Q41861,P2176,drug_or_therapy,Q2603363,chlorothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q2889971,benzthiazide
+E0022,Q41861,P2176,drug_or_therapy,Q3332124,mecamylamine
+E0022,Q41861,P2176,drug_or_therapy,Q3342150,(RS)-nisoldipine
+E0022,Q41861,P2176,drug_or_therapy,Q3791957,hydroflumethiazide
+E0022,Q41861,P2176,drug_or_therapy,Q4747074,amlodipine/benazepril
+E0022,Q41861,P2176,drug_or_therapy,Q4747075,amlodipine/valsartan
+E0022,Q41861,P2176,drug_or_therapy,Q4890934,bepridil
+E0022,Q41861,P2176,drug_or_therapy,Q5199066,cyclothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q5263885,deserpidine
+E0022,Q41861,P2176,drug_or_therapy,Q5613542,guanabenz
+E0022,Q41861,P2176,drug_or_therapy,Q5613557,guanadrel
+E0022,Q41861,P2176,drug_or_therapy,Q5613599,guanfacine
+E0022,Q41861,P2176,drug_or_therapy,Q6457467,sacubitril/valsartan
+E0022,Q41861,P2176,drug_or_therapy,Q6823919,methyclothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q6827783,mibefradil
+E0022,Q41861,P2176,drug_or_therapy,Q7227099,polythiazide
+E0022,Q41861,P2176,drug_or_therapy,Q7272222,quinethazone
+E0022,Q41861,P2176,drug_or_therapy,Q7697766,telmisartan/hydrochlorothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q7700570,atenolol/chlorthalidone
+E0022,Q41861,P2176,drug_or_therapy,Q20078502,dabigatran etexilate
+E0022,Q41861,P2176,drug_or_therapy,Q27106078,carteolol hydrochloride
+E0022,Q41861,P2176,drug_or_therapy,Q27281933,ethacrynate sodium
+E0022,Q41861,P2176,drug_or_therapy,Q27292429,clonidine hydrochloride
+E0022,Q41861,P2176,drug_or_therapy,Q28859607,irbesartan / hydrochlorothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q47495698,lisinopril dihydrate
+E0022,Q41861,P2176,drug_or_therapy,Q48566655,enalapril / hydrochlorothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q48566657,hydrochlorothiazide / triamterene
+E0022,Q41861,P2176,drug_or_therapy,Q48566693,hydrochlorothiazide / losartan
+E0022,Q41861,P2176,drug_or_therapy,Q48566694,hydrochlorothiazide / valsartan
+E0022,Q41861,P2176,drug_or_therapy,Q48566696,hydrochlorothiazide / spironolactone
+E0022,Q41861,P2176,drug_or_therapy,Q48566700,Hydrochlorothiazide / Lisinopril
+E0022,Q41861,P2176,drug_or_therapy,Q48566705,ezetimibe / simvastatin
+E0022,Q41861,P2176,drug_or_therapy,Q48566757,bisoprolol / hydrochlorothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q48566771,candesartan / hydrochlorothiazide
+E0022,Q41861,P2176,drug_or_therapy,Q48566808,amlodipine / atorvastatin
+E0022,Q41861,P2176,drug_or_therapy,Q84770474,lisinopril/amlodipine
+E0022,Q41861,P2293,genetic_association,Q4654809,ATP2B1
+E0022,Q41861,P2293,genetic_association,Q14863991,ACE
+E0022,Q41861,P2293,genetic_association,Q14890978,HFE
+E0022,Q41861,P2293,genetic_association,Q14905564,UMOD
+E0022,Q41861,P2293,genetic_association,Q14916359,ADRB1
+E0022,Q41861,P2293,genetic_association,Q15332826,AGTR1
+E0022,Q41861,P2293,genetic_association,Q17854673,CACNA1D
+E0022,Q41861,P2293,genetic_association,Q17854978,CACNB2
+E0022,Q41861,P2293,genetic_association,Q18029250,MOV10
+E0022,Q41861,P2293,genetic_association,Q18029451,MSRA
+E0022,Q41861,P2293,genetic_association,Q18029785,MYO1D
+E0022,Q41861,P2293,genetic_association,Q18030356,PAX5
+E0022,Q41861,P2293,genetic_association,Q18040087,PLCE1
+E0022,Q41861,P2293,genetic_association,Q18043142,LRRC7
+E0022,Q41861,P2293,genetic_association,Q18045573,SLC39A8
+E0023,Q1787939,P31,instance_of,Q112193867,type of disease
+E0023,Q1787939,P279,subclass_of,Q270421,muscle weakness
+E0023,Q1787939,P279,subclass_of,Q438962,aging-associated disease
+E0023,Q1787939,P279,subclass_of,Q1557686,muscle atrophy
+E0023,Q1787939,P1995,health_specialty,Q10384,geriatrics
+E0024,Q389735,P31,instance_of,Q11862829,academic discipline
+E0024,Q389735,P31,instance_of,Q112193867,type of disease
+E0024,Q389735,P279,subclass_of,Q18557436,disease of anatomical entity
+E0024,Q389735,P527,has_part,Q190805,heart disease
+E0024,Q389735,P527,has_part,Q1266890,vascular disease
+E0024,Q389735,P780,symptom,Q9690,fatigue
+E0024,Q389735,P780,symptom,Q188008,dyspnea
+E0024,Q389735,P780,symptom,Q693058,chest pain
+E0024,Q389735,P780,symptom,Q12829165,unconsciousness
+E0024,Q389735,P1995,health_specialty,Q10379,cardiology
+E0024,Q389735,P2176,drug_or_therapy,Q139347,cholecalciferol
+E0024,Q389735,P2293,genetic_association,Q14872724,LDLR
+E0024,Q389735,P2293,genetic_association,Q14890615,APOB
+E0024,Q389735,P2293,genetic_association,Q14890978,HFE
+E0024,Q389735,P2293,genetic_association,Q14913510,BCHE
+E0024,Q389735,P2293,genetic_association,Q17916070,CELSR2
+E0024,Q389735,P2293,genetic_association,Q18025635,GCKR
+E0024,Q389735,P2293,genetic_association,Q18033174,OASL
+E0024,Q389735,P2293,genetic_association,Q18035395,TOMM40
+E0024,Q389735,P2293,genetic_association,Q18036152,IL1RAPL1
+E0024,Q389735,P2293,genetic_association,Q18039854,IRX4
+E0024,Q389735,P2293,genetic_association,Q18042703,MEPE
+E0024,Q389735,P2293,genetic_association,Q20970115,SLC17A4
+E0024,Q389735,P5642,risk_factor,Q662860,smoking
+E0025,Q332428,P31,instance_of,Q179630,syndrome
+E0025,Q332428,P31,instance_of,Q63345803,abnormally high value
+E0025,Q332428,P31,instance_of,Q112965645,symptom or sign
+E0025,Q332428,P279,subclass_of,Q16956975,overnutrition
+E0025,Q332428,P1995,health_specialty,Q162606,endocrinology
+E0026,Q1053470,P31,instance_of,Q112193867,type of disease
+E0026,Q1053470,P279,subclass_of,Q12206,diabetes
+E0026,Q1053470,P279,subclass_of,Q12147416,drug resistance
+E0026,Q1053470,P1995,health_specialty,Q162606,endocrinology
+E0026,Q1053470,P5642,risk_factor,Q662860,smoking
+E0027,Q81938,P31,instance_of,Q639907,medical finding
+E0027,Q81938,P31,instance_of,Q1441305,clinical sign
+E0027,Q81938,P31,instance_of,Q2057971,health problem
+E0027,Q81938,P31,instance_of,Q42014143,biomedical measurand type
+E0027,Q81938,P31,instance_of,Q126034916,conscious experience
+E0027,Q81938,P31,instance_of,Q130753312,symptom type
+E0027,Q81938,P279,subclass_of,Q169872,symptom
+E0027,Q81938,P279,subclass_of,Q47455774,unpleasantness
+E0027,Q81938,P279,subclass_of,Q104776490,hurt
+E0027,Q81938,P361,part_of,Q9357054,theory of emotion
+E0027,Q81938,P1995,health_specialty,Q29483,palliative care
+E0027,Q81938,P1995,health_specialty,Q83042,neurology
+E0027,Q81938,P1995,health_specialty,Q615057,anaesthesiology
+E0027,Q81938,P1995,health_specialty,Q2861470,emergency medicine
+E0027,Q81938,P1995,health_specialty,Q3259956,primary care
+E0027,Q81938,P2176,drug_or_therapy,Q18216,aspirin
+E0027,Q81938,P2176,drug_or_therapy,Q41576,cocaine
+E0027,Q81938,P2176,drug_or_therapy,Q55434,pethidine
+E0027,Q81938,P2176,drug_or_therapy,Q57055,paracetamol
+E0027,Q81938,P2176,drug_or_therapy,Q58396,imipramine
+E0027,Q81938,P2176,drug_or_therapy,Q58397,amitriptyline
+E0027,Q81938,P2176,drug_or_therapy,Q58713,clomipramine
+E0027,Q81938,P2176,drug_or_therapy,Q61387,nortriptyline
+E0027,Q81938,P2176,drug_or_therapy,Q81225,morphine
+E0027,Q81938,P2176,drug_or_therapy,Q130336,phenol
+E0027,Q81938,P2176,drug_or_therapy,Q174259,droperidol
+E0027,Q81938,P2176,drug_or_therapy,Q174723,codeine
+E0027,Q81938,P2176,drug_or_therapy,Q186969,ibuprofen
+E0027,Q81938,P2176,drug_or_therapy,Q202218,diethyl ether
+E0027,Q81938,P2176,drug_or_therapy,Q216935,lidocaine
+E0027,Q81938,P2176,drug_or_therapy,Q221174,topiramate
+E0027,Q81938,P2176,drug_or_therapy,Q239426,mitoxantrone
+E0027,Q81938,P2176,drug_or_therapy,Q243547,(RS)-ketamine
+E0027,Q81938,P2176,drug_or_therapy,Q244408,Diclofenac
+E0027,Q81938,P2176,drug_or_therapy,Q273169,capsaicin
+E0027,Q81938,P2176,drug_or_therapy,Q277979,nalbuphine
+E0027,Q81938,P2176,drug_or_therapy,Q284321,mefenamic acid
+E0027,Q81938,P2176,drug_or_therapy,Q303646,hydromorphone
+E0027,Q81938,P2176,drug_or_therapy,Q304782,etidocaine
+E0027,Q81938,P2176,drug_or_therapy,Q347613,valdecoxib
+E0027,Q81938,P2176,drug_or_therapy,Q377270,dihydrocodeine
+E0027,Q81938,P2176,drug_or_therapy,Q407418,L-menthol
+E0027,Q81938,P2176,drug_or_therapy,Q407535,oxycodone
+E0027,Q81938,P2176,drug_or_therapy,Q407541,fentanyl
+E0027,Q81938,P2176,drug_or_therapy,Q407592,tramadol
+E0027,Q81938,P2176,drug_or_therapy,Q407721,buprenorphine
+E0027,Q81938,P2176,drug_or_therapy,Q408801,celecoxib
+E0027,Q81938,P2176,drug_or_therapy,Q409133,chloroethane
+E0027,Q81938,P2176,drug_or_therapy,Q409192,(RS)-ketoprofen
+E0027,Q81938,P2176,drug_or_therapy,Q409231,indomethacin
+E0027,Q81938,P2176,drug_or_therapy,Q410352,gabapentin
+E0027,Q81938,P2176,drug_or_therapy,Q411412,rofecoxib
+E0027,Q81938,P2176,drug_or_therapy,Q411441,hydrocodone
+E0027,Q81938,P2176,drug_or_therapy,Q411456,methocarbamol
+E0027,Q81938,P2176,drug_or_therapy,Q412133,dexmedetomidine
+E0027,Q81938,P2176,drug_or_therapy,Q413598,prilocaine
+E0027,Q81938,P2176,drug_or_therapy,Q415578,antipyrine
+E0027,Q81938,P2176,drug_or_therapy,Q415793,(-)-pentazocine
+E0027,Q81938,P2176,drug_or_therapy,Q416760,mepivacaine
+E0027,Q81938,P2176,drug_or_therapy,Q416791,cidoxepin
+E0027,Q81938,P2176,drug_or_therapy,Q416905,carisoprodol
+E0027,Q81938,P2176,drug_or_therapy,Q417204,levomepromazine
+E0027,Q81938,P2176,drug_or_therapy,Q417603,dibucaine
+E0027,Q81938,P2176,drug_or_therapy,Q417902,remifentanil
+E0027,Q81938,P2176,drug_or_therapy,Q417915,sufentanil
+E0027,Q81938,P2176,drug_or_therapy,Q418361,maprotiline
+E0027,Q81938,P2176,drug_or_therapy,Q418445,etomidate
+E0027,Q81938,P2176,drug_or_therapy,Q419175,phenacetin
+E0027,Q81938,P2176,drug_or_therapy,Q419383,desflurane
+E0027,Q81938,P2176,drug_or_therapy,Q419608,tetracaine
+E0027,Q81938,P2176,drug_or_therapy,Q421259,phenyl salicylate
+E0027,Q81938,P2176,drug_or_therapy,Q421297,articaine
+E0027,Q81938,P2176,drug_or_therapy,Q422740,propofol
+E0027,Q81938,P2176,drug_or_therapy,Q422745,benzocaine
+E0027,Q81938,P2176,drug_or_therapy,Q422806,bupivacaine-(RS)
+E0027,Q81938,P2176,drug_or_therapy,Q422970,(±)-promethazine
+E0027,Q81938,P2176,drug_or_therapy,Q423000,trichloromonofluoromethane
+E0027,Q81938,P2176,drug_or_therapy,Q423288,desipramine
+E0027,Q81938,P2176,drug_or_therapy,Q423380,oxymorphone
+E0027,Q81938,P2176,drug_or_therapy,Q423538,tizanidine
+E0027,Q81938,P2176,drug_or_therapy,Q423741,procaine
+E0027,Q81938,P2176,drug_or_therapy,Q425207,nabumetone
+E0027,Q81938,P2176,drug_or_therapy,Q425386,dyclonine
+E0027,Q81938,P2176,drug_or_therapy,Q510494,triflupromazine
+E0027,Q81938,P2176,drug_or_therapy,Q621261,pain management
+E0027,Q81938,P2176,drug_or_therapy,Q898407,venlafaxine
+E0027,Q81938,P2176,drug_or_therapy,Q1109018,dezocine
+E0027,Q81938,P2176,drug_or_therapy,Q1185089,butorphanol
+E0027,Q81938,P2176,drug_or_therapy,Q1215575,naproxen
+E0027,Q81938,P2176,drug_or_therapy,Q1240076,pramoxine
+E0027,Q81938,P2176,drug_or_therapy,Q1320691,salsalate
+E0027,Q81938,P2176,drug_or_therapy,Q2465218,(RS)-etodolac
+E0027,Q81938,P2176,drug_or_therapy,Q2487682,bromfenac
+E0027,Q81938,P2176,drug_or_therapy,Q2496906,salicylamide
+E0027,Q81938,P2176,drug_or_therapy,Q2555245,(RS)-fenoprofen
+E0027,Q81938,P2176,drug_or_therapy,Q2579108,L-morphan
+E0027,Q81938,P2176,drug_or_therapy,Q2602750,diflunisal
+E0027,Q81938,P2176,drug_or_therapy,Q2823284,meclofenamic acid
+E0027,Q81938,P2176,drug_or_therapy,Q2964133,chloroprocaine
+E0027,Q81938,P2176,drug_or_therapy,Q3114549,phenazopyridine
+E0027,Q81938,P2176,drug_or_therapy,Q3272027,levobupivacaine
+E0027,Q81938,P2176,drug_or_therapy,Q3292273,orphenadrine
+E0027,Q81938,P2176,drug_or_therapy,Q3294630,chlorzoxazone
+E0027,Q81938,P2176,drug_or_therapy,Q5002339,butacaine
+E0027,Q81938,P2176,drug_or_therapy,Q5103226,chlorphenesin
+E0027,Q81938,P2176,drug_or_therapy,Q5198674,cyclobenzaprine
+E0027,Q81938,P2176,drug_or_therapy,Q6823309,metaxalone
+E0027,Q81938,P2176,drug_or_therapy,Q7845153,trolamine salicylate
+E0027,Q81938,P2176,drug_or_therapy,Q12745763,levonordefrin
+E0027,Q81938,P2176,drug_or_therapy,Q20817210,magnesium salicylate tetrahydrate
+E0027,Q81938,P2176,drug_or_therapy,Q27107089,ketorolac tromethamine
+E0027,Q81938,P2176,drug_or_therapy,Q27262770,strontium chloride sr-89
+E0027,Q81938,P2176,drug_or_therapy,Q27292429,clonidine hydrochloride
+E0028,Q12078,P31,instance_of,Q12136,disease
+E0028,Q12078,P31,instance_of,Q2057971,health problem
+E0028,Q12078,P31,instance_of,Q112193867,type of disease
+E0028,Q12078,P279,subclass_of,Q3137154,non-communicable disease
+E0028,Q12078,P279,subclass_of,Q18554796,disease of cellular proliferation
+E0028,Q12078,P279,subclass_of,Q140408816,disorder
+E0028,Q12078,P828,has_cause,Q6029220,infectious causes of cancer
+E0028,Q12078,P828,has_cause,Q18205885,cause of cancer
+E0028,Q12078,P828,has_cause,Q106161481,malignant cell
+E0028,Q12078,P1542,has_effect,Q3712728,cancer pain
+E0028,Q12078,P1995,health_specialty,Q162555,oncology
+E0028,Q12078,P2176,drug_or_therapy,Q139347,cholecalciferol
+E0028,Q12078,P2176,drug_or_therapy,Q256502,alpha-linolenic acid
+E0028,Q12078,P2176,drug_or_therapy,Q417222,methylprednisolone
+E0028,Q12078,P2176,drug_or_therapy,Q422252,dexamethasone
+E0028,Q12078,P2176,drug_or_therapy,Q424972,prednisone
+E0028,Q12078,P2176,drug_or_therapy,Q2853144,antineoplastic
+E0028,Q12078,P2176,drug_or_therapy,Q11426176,prednisolone
+E0028,Q12078,P5642,risk_factor,Q662860,smoking
+E0029,Q42844,P31,instance_of,Q112193867,type of disease
+E0029,Q42844,P279,subclass_of,Q317309,mental health
+E0029,Q42844,P279,subclass_of,Q11076418,depressive disorder
+E0029,Q42844,P780,symptom,Q1046055,depressive syndrome
+E0029,Q42844,P828,has_cause,Q7162,genetics
+E0029,Q42844,P828,has_cause,Q223675,meaning of life
+E0029,Q42844,P828,has_cause,Q2142347,environmental factor
+E0029,Q42844,P1995,health_specialty,Q7867,psychiatry
+E0029,Q42844,P2176,drug_or_therapy,Q58356,amoxapine
+E0029,Q42844,P2176,drug_or_therapy,Q76560,antidepressant
+E0029,Q42844,P2176,drug_or_therapy,Q243547,(RS)-ketamine
+E0029,Q42844,P2176,drug_or_therapy,Q334477,selective serotonin reuptake inhibitor
+E0029,Q42844,P2176,drug_or_therapy,Q395229,agomelatine
+E0029,Q42844,P2176,drug_or_therapy,Q411932,(S)-duloxetine
+E0029,Q42844,P2176,drug_or_therapy,Q418361,maprotiline
+E0029,Q42844,P2176,drug_or_therapy,Q1452256,levosulpiride
+E0029,Q42844,P2176,drug_or_therapy,Q2273909,serotonin–norepinephrine reuptake inhibitor
+E0029,Q42844,P2176,drug_or_therapy,Q3563148,vortioxetine
+E0029,Q42844,P2176,drug_or_therapy,Q6535779,levomilnacipran
+E0029,Q42844,P2176,drug_or_therapy,Q7961010,wake therapy
+E0029,Q42844,P2176,drug_or_therapy,Q27139037,vilazodone hydrochloride
+E0029,Q42844,P2176,drug_or_therapy,Q72513765,Bupropion
+E0029,Q42844,P2293,genetic_association,Q5401840,ESRRG
+E0029,Q42844,P2293,genetic_association,Q14905744,CACNA1C
+E0029,Q42844,P2293,genetic_association,Q15323140,TRPS1
+E0029,Q42844,P2293,genetic_association,Q15335165,DRD2
+E0029,Q42844,P2293,genetic_association,Q17826316,ANK3
+E0029,Q42844,P2293,genetic_association,Q18026554,GRM7
+E0029,Q42844,P2293,genetic_association,Q18029805,MYO10
+E0029,Q42844,P2293,genetic_association,Q18036498,ITGA11
+E0029,Q42844,P2293,genetic_association,Q18037107,SYNE1
+E0029,Q42844,P2293,genetic_association,Q18038666,KCNH5
+E0029,Q42844,P2293,genetic_association,Q18038817,PCLO
+E0029,Q42844,P2293,genetic_association,Q18041520,ENOX1
+E0029,Q42844,P2293,genetic_association,Q18046219,FAT4
+E0029,Q42844,P2293,genetic_association,Q18051562,CCBE1
+E0029,Q42844,P2293,genetic_association,Q18057438,SHC4
+E0029,Q42844,P2293,genetic_association,Q20970130,SP4
+E0029,Q42844,P5642,risk_factor,Q383126,chronic condition
+E0029,Q42844,P5642,risk_factor,Q2857712,family medical history
+E0029,Q42844,P5642,risk_factor,Q3184856,substance abuse
+E0030,Q1345732,P279,subclass_of,Q102187423,muscle symptom
+E0031,Q18912826,P31,instance_of,Q38039238,ligament injury
+E0031,Q18912826,P279,subclass_of,Q34623048,cruciate ligament injury
+E0031,Q18912826,P1995,health_specialty,Q216685,orthopedics
+E0032,Q852163,P279,subclass_of,Q3911817,low backache
+E0032,Q852163,P279,subclass_of,Q26989028,low back disorder
+E0032,Q852163,P1995,health_specialty,Q216685,orthopedics
+E0032,Q852163,P1995,health_specialty,Q2795791,rehabilitation
+E0032,Q852163,P2176,drug_or_therapy,Q423538,tizanidine
+E0033,Q657193,P31,instance_of,Q929833,rare disease
+E0033,Q657193,P31,instance_of,Q1134368,medicalization
+E0033,Q657193,P31,instance_of,Q112193867,type of disease
+E0033,Q657193,P279,subclass_of,Q1228633,disease mongering
+E0033,Q657193,P279,subclass_of,Q27164421,abdominal obesity-metabolic syndrome
+E0033,Q657193,P1995,health_specialty,Q11180,internal medicine
+E0033,Q657193,P1995,health_specialty,Q162606,endocrinology
+E0033,Q657193,P2293,genetic_association,Q18033872,DYRK1B
+E0034,Q62736,P31,instance_of,Q112193867,type of disease
+E0034,Q62736,P31,instance_of,Q112965645,symptom or sign
+E0034,Q62736,P279,subclass_of,Q170990,arthritis
+E0034,Q62736,P279,subclass_of,Q100740636,degenerative disorder of musculoskeletal system
+E0034,Q62736,P780,symptom,Q170990,arthritis
+E0034,Q62736,P1995,health_specialty,Q216685,orthopedics
+E0034,Q62736,P1995,health_specialty,Q327657,rheumatology
+E0034,Q62736,P1995,health_specialty,Q3505712,family medicine
+E0034,Q62736,P2176,drug_or_therapy,Q18216,aspirin
+E0034,Q62736,P2176,drug_or_therapy,Q186969,ibuprofen
+E0034,Q62736,P2176,drug_or_therapy,Q244408,Diclofenac
+E0034,Q62736,P2176,drug_or_therapy,Q327506,D-glucosamine
+E0034,Q62736,P2176,drug_or_therapy,Q347613,valdecoxib
+E0034,Q62736,P2176,drug_or_therapy,Q408676,piroxicam
+E0034,Q62736,P2176,drug_or_therapy,Q408801,celecoxib
+E0034,Q62736,P2176,drug_or_therapy,Q409192,(RS)-ketoprofen
+E0034,Q62736,P2176,drug_or_therapy,Q409231,indomethacin
+E0034,Q62736,P2176,drug_or_therapy,Q411412,rofecoxib
+E0034,Q62736,P2176,drug_or_therapy,Q414028,meloxicam
+E0034,Q62736,P2176,drug_or_therapy,Q419890,(±)-flurbiprofen
+E0034,Q62736,P2176,drug_or_therapy,Q425207,nabumetone
+E0034,Q62736,P2176,drug_or_therapy,Q963093,sulindac
+E0034,Q62736,P2176,drug_or_therapy,Q1215575,naproxen
+E0034,Q62736,P2176,drug_or_therapy,Q1749609,oxaprozin
+E0034,Q62736,P2176,drug_or_therapy,Q2465218,(RS)-etodolac
+E0034,Q62736,P2176,drug_or_therapy,Q2555245,(RS)-fenoprofen
+E0034,Q62736,P2176,drug_or_therapy,Q2602750,diflunisal
+E0034,Q62736,P2176,drug_or_therapy,Q3992411,tolmetin
+E0034,Q62736,P2176,drug_or_therapy,Q7701370,tepoxalin
+E0034,Q62736,P2293,genetic_association,Q14912501,FTO
+E0034,Q62736,P2293,genetic_association,Q17855655,CAMK2B
+E0034,Q62736,P2293,genetic_association,Q18035408,COG5
+E0034,Q62736,P2293,genetic_association,Q18036088,DUS4L
+E0034,Q62736,P2293,genetic_association,Q18037046,MCF2L
+E0034,Q62736,P2293,genetic_association,Q18047604,DOT1L
+E0034,Q62736,P2293,genetic_association,Q18049302,PARD3B
+E0034,Q62736,P2293,genetic_association,Q18053064,DNAH10
+E0034,Q62736,P2293,genetic_association,Q18055508,NACA2
+E0035,Q12131,P279,subclass_of,Q937228,property
+E0035,Q12131,P527,has_part,Q183560,intellectual disability
+E0035,Q12131,P527,has_part,Q1142806,developmental disability
+E0035,Q12131,P527,has_part,Q1179623,physical disability
+E0035,Q12131,P527,has_part,Q3317827,disability affecting intellectual abilities
+E0035,Q12131,P527,has_part,Q12145457,mental disability
+E0036,Q17152799,P279,subclass_of,Q165328,osteoporosis
+E0037,Q12202,P31,instance_of,Q179630,syndrome
+E0037,Q12202,P31,instance_of,Q1931388,cause of death
+E0037,Q12202,P31,instance_of,Q112965645,symptom or sign
+E0037,Q12202,P279,subclass_of,Q3010352,cerebrovascular disease
+E0037,Q12202,P279,subclass_of,Q12040808,neurological symptom
+E0037,Q12202,P279,subclass_of,Q31836626,general symptom
+E0037,Q12202,P1995,health_specialty,Q83042,neurology
+E0037,Q12202,P1995,health_specialty,Q188449,neurosurgery
+E0037,Q12202,P2176,drug_or_therapy,Q416331,pentoxifylline
+E0037,Q12202,P2293,genetic_association,Q14881709,ADAMTS2
+E0037,Q12202,P2293,genetic_association,Q14911781,ALDH2
+E0037,Q12202,P2293,genetic_association,Q17816379,CRYBG1
+E0037,Q12202,P2293,genetic_association,Q17832572,ZFHX3
+E0037,Q12202,P2293,genetic_association,Q18027905,IMPA2
+E0037,Q12202,P2293,genetic_association,Q18033696,KALRN
+E0037,Q12202,P2293,genetic_association,Q18034627,HDAC9
+E0037,Q12202,P2293,genetic_association,Q18047096,ADAMTS12
+E0037,Q12202,P2293,genetic_association,Q18048631,SPSB4
+E0037,Q12202,P5642,risk_factor,Q662860,smoking
+E0038,Q177171,P279,subclass_of,Q438962,aging-associated disease
+E0038,Q177171,P780,symptom,Q165328,osteoporosis
+E0038,Q177171,P780,symptom,Q1787939,sarcopenia
+E0038,Q177171,P1995,health_specialty,Q10384,geriatrics
+E0039,Q199804,P31,instance_of,Q112193867,type of disease
+E0039,Q199804,P279,subclass_of,Q3508797,obstructive lung disease
+E0039,Q199804,P780,symptom,Q35805,cough
+E0039,Q199804,P780,symptom,Q188008,dyspnea
+E0039,Q199804,P780,symptom,Q517104,wheeze
+E0039,Q199804,P828,has_cause,Q152100,tobacco use disorder
+E0039,Q199804,P828,has_cause,Q165632,dust
+E0039,Q199804,P1995,health_specialty,Q203337,pulmonology
+E0039,Q199804,P2176,drug_or_therapy,Q221637,ambroxol
+E0039,Q199804,P2176,drug_or_therapy,Q223412,(RS)-clenbuterol
+E0039,Q199804,P2176,drug_or_therapy,Q411917,glycopyrrolate
+E0039,Q199804,P2176,drug_or_therapy,Q423408,L-carbocysteine
+E0039,Q199804,P2176,drug_or_therapy,Q425654,indacaterol
+E0039,Q199804,P2176,drug_or_therapy,Q637247,formoterol
+E0039,Q199804,P2176,drug_or_therapy,Q2166700,fluticasone furoate
+E0039,Q199804,P2176,drug_or_therapy,Q3633651,bambuterol
+E0039,Q199804,P2176,drug_or_therapy,Q3731252,erdosteine
+E0039,Q199804,P2176,drug_or_therapy,Q3733837,etofylline
+E0039,Q199804,P2176,drug_or_therapy,Q27137018,indacaterol maleate
+E0039,Q199804,P2293,genetic_association,Q14906978,HLA-C
+E0039,Q199804,P2293,genetic_association,Q14907362,SCGB1A1
+E0039,Q199804,P2293,genetic_association,Q14908050,TGFB2
+E0039,Q199804,P2293,genetic_association,Q14908239,ANXA5
+E0039,Q199804,P2293,genetic_association,Q14912501,FTO
+E0039,Q199804,P2293,genetic_association,Q14914144,SFTPD
+E0039,Q199804,P2293,genetic_association,Q17828712,ANXA11
+E0039,Q199804,P2293,genetic_association,Q17861975,CHRNA3
+E0039,Q199804,P2293,genetic_association,Q17917742,EYA1
+E0039,Q199804,P2293,genetic_association,Q18030320,P2RX7
+E0039,Q199804,P2293,genetic_association,Q18034084,CDYL
+E0039,Q199804,P2293,genetic_association,Q18034877,ATP2C2
+E0039,Q199804,P2293,genetic_association,Q18035067,FAM13A
+E0039,Q199804,P2293,genetic_association,Q18040087,PLCE1
+E0039,Q199804,P2293,genetic_association,Q18041246,HYDIN
+E0039,Q199804,P2293,genetic_association,Q18043075,RNF150
+E0039,Q199804,P2293,genetic_association,Q18046442,RIN3
+E0039,Q199804,P2293,genetic_association,Q18046601,ASRGL1
+E0039,Q199804,P2293,genetic_association,Q18050381,SCLT1
+E0039,Q199804,P2293,genetic_association,Q18052963,PSORS1C1
+E0039,Q199804,P2293,genetic_association,Q18054044,JAKMIP3
+E0039,Q199804,P2293,genetic_association,Q18055255,FAM19A2
+E0039,Q199804,P5642,risk_factor,Q662860,smoking
+E0041,Q2802231,P279,subclass_of,Q83030,dementia
+E0042,Q181391,P31,instance_of,Q112193867,type of disease
+E0042,Q181391,P279,subclass_of,Q327496,hairstyle
+E0042,Q181391,P279,subclass_of,Q19829125,absence
+E0042,Q181391,P279,subclass_of,Q55788585,hair anomaly
+E0042,Q181391,P828,has_cause,Q1641483,hypotrichosis
+E0042,Q181391,P828,has_cause,Q2276095,androgenic alopecia
+E0042,Q181391,P828,has_cause,Q2697787,alopecia
+E0042,Q181391,P1995,health_specialty,Q171171,dermatology
+E0042,Q181391,P2176,drug_or_therapy,Q424165,minoxidil
+E0042,Q181391,P2176,drug_or_therapy,Q424167,finasteride
+E0042,Q181391,P2176,drug_or_therapy,Q424760,dutasteride
+E0042,Q181391,P2176,drug_or_therapy,Q3530324,tofacitinib
+E0043,Q378681,P31,instance_of,Q112193867,type of disease
+E0043,Q378681,P279,subclass_of,Q16919543,Peripheral vasculopathy
+E0043,Q378681,P279,subclass_of,Q18965518,artery disease
+E0043,Q378681,P780,symptom,Q1097957,intermittent claudication
+E0043,Q378681,P1995,health_specialty,Q1498222,vascular surgery
+E0043,Q378681,P2293,genetic_association,Q18030791,MAPK10
+E0043,Q378681,P2293,genetic_association,Q18049107,OSBPL10
+E0043,Q378681,P5642,risk_factor,Q12206,diabetes
+E0043,Q378681,P5642,risk_factor,Q41861,arterial hypertension
+E0043,Q378681,P5642,risk_factor,Q152100,tobacco use disorder
+E0044,Q1755746,P31,instance_of,Q349,sport
+E0044,Q1755746,P279,subclass_of,Q450743,bodyweight exercise
+E0044,Q1755746,P279,subclass_of,Q50320205,weight training exercise
+E0045,Q624482,P31,instance_of,Q2312410,sports discipline
+E0045,Q624482,P31,instance_of,Q131541832,anaerobic activity
+E0045,Q624482,P279,subclass_of,Q10572883,running discipline of track
+E0045,Q624482,P279,subclass_of,Q22938576,race
+E0046,Q105674,P31,instance_of,Q47728,hobby
+E0046,Q105674,P31,instance_of,Q2312410,sports discipline
+E0046,Q105674,P279,subclass_of,Q349,sport
+E0046,Q105674,P279,subclass_of,Q219067,physical exercise
+E0046,Q105674,P279,subclass_of,Q2535935,terrestrial locomotion
+E0046,Q105674,P279,subclass_of,Q106170525,locomotor skill
+E0046,Q105674,P279,subclass_of,Q117118167,human locomotion
+E0046,Q105674,P361,part_of,Q2997362,physical culture
+E0047,Q14596454,P279,subclass_of,Q1074871,vertical jump
+E0047,Q14596454,P279,subclass_of,Q52177345,field event
+E0048,Q53121,P31,instance_of,Q334166,mode of transport
+E0048,Q53121,P279,subclass_of,Q349,sport
+E0048,Q53121,P279,subclass_of,Q47728,hobby
+E0048,Q53121,P279,subclass_of,Q79782,motion
+E0048,Q53121,P279,subclass_of,Q747883,physical activity
+E0048,Q53121,P279,subclass_of,Q28692567,vehicle operation
+E0048,Q53121,P279,subclass_of,Q63247926,human-powered transport
+E0048,Q53121,P279,subclass_of,Q114732027,riding
+E0049,Q6537379,P31,instance_of,Q334166,mode of transport
+E0049,Q6537379,P31,instance_of,Q106170525,locomotor skill
+E0049,Q6537379,P279,subclass_of,Q925958,animal locomotion
+E0049,Q6537379,P279,subclass_of,Q2535935,terrestrial locomotion
+E0050,Q14093,P279,subclass_of,Q50320205,weight training exercise
+E0050,Q14093,P361,part_of,Q213796,powerlifting
+E0051,Q814819,P279,subclass_of,Q50320205,weight training exercise
+E0052,Q2302075,P279,subclass_of,Q50320205,weight training exercise
+E0053,Q219067,P279,subclass_of,Q309252,physical fitness
+E0053,Q219067,P279,subclass_of,Q14536140,exertion
+E0053,Q219067,P279,subclass_of,Q19710494,health enhancing physical activity
+E0053,Q219067,P279,subclass_of,Q29051769,exercise
+E0053,Q219067,P361,part_of,Q2997362,physical culture
+E0053,Q219067,P361,part_of,Q3055155,sports training
+E0053,Q219067,P361,part_of,Q66662493,"sport, games, physical exercises"
+E0053,Q219067,P1542,has_effect,Q5347380,neurobiological effects of physical exercise
+E0054,Q608288,P31,instance_of,Q50320205,weight training exercise
+E0054,Q608288,P31,instance_of,Q131541832,anaerobic activity
+E0054,Q608288,P361,part_of,Q213796,powerlifting
+E0055,Q2588216,P279,subclass_of,Q1384981,extension
+E0055,Q2588216,P279,subclass_of,Q50320205,weight training exercise
+E0056,Q31920,P31,instance_of,Q31629,type of sport
+E0056,Q31920,P279,subclass_of,Q6388,swimming
+E0056,Q31920,P279,subclass_of,Q61065,water sport
+E0056,Q31920,P279,subclass_of,Q212434,Olympic sport
+E0057,Q3073715,P279,subclass_of,Q30899654,curl
+E0057,Q3073715,P279,subclass_of,Q50320205,weight training exercise
+E0058,Q139681728,P31,instance_of,Q50320205,weight training exercise
+E0059,Q3094383,P31,instance_of,Q450743,bodyweight exercise
+E0059,Q3094383,P31,instance_of,Q1216236,isometric exercise
+E0060,Q320575,P279,subclass_of,Q450743,bodyweight exercise
+E0061,Q504536,P31,instance_of,Q112826905,class of anatomical entity
+E0061,Q504536,P31,instance_of,Q125984341,chiral muscle organ type
+E0061,Q504536,P279,subclass_of,Q66535588,muscle of anterior compartment of thigh
+E0061,Q504536,P279,subclass_of,Q112826975,particular anatomical entity
+E0061,Q504536,P361,part_of,Q4771336,anterior compartment of thigh
+E0061,Q504536,P527,has_part,Q975459,vastus lateralis muscle
+E0061,Q504536,P527,has_part,Q1590935,vastus medialis
+E0061,Q504536,P527,has_part,Q1633822,rectus femoris muscle
+E0061,Q504536,P527,has_part,Q1812578,vastus intermedius muscle
+E0061,Q504536,P2789,connects_with,Q7268395,quadriceps tendon
+E0061,Q504536,P2789,connects_with,Q66507089,suprapatellar bursa
+E0061,Q504536,P2789,connects_with,Q66535492,subfascial prepatellar bursa
+E0061,Q504536,P2789,connects_with,Q66535495,subtendinous prepatellar bursa
+E0062,Q196002,P31,instance_of,Q125984341,chiral muscle organ type
+E0062,Q196002,P361,part_of,Q12176598,posterior compartment of thigh
+E0062,Q196002,P361,part_of,Q63694246,set of hamstrings of one leg
+E0062,Q196002,P527,has_part,Q601016,biceps femoris muscle
+E0062,Q196002,P527,has_part,Q1163035,semitendinosus muscle
+E0062,Q196002,P527,has_part,Q1270633,semimembranosus muscle
+E0063,Q431282,P31,instance_of,Q10590728,set of muscles
+E0063,Q431282,P31,instance_of,Q112826905,class of anatomical entity
+E0063,Q431282,P279,subclass_of,Q7365,muscle
+E0063,Q431282,P279,subclass_of,Q66540384,set of superficial muscles of posterior compartment of leg
+E0063,Q431282,P279,subclass_of,Q112826975,particular anatomical entity
+E0063,Q431282,P361,part_of,Q66535610,superficial part of posterior compartment of leg
+E0063,Q431282,P527,has_part,Q943203,gastrocnemius muscle
+E0063,Q431282,P527,has_part,Q1954164,soleus muscle
+E0064,Q201363,P31,instance_of,Q112826905,class of anatomical entity
+E0064,Q201363,P31,instance_of,Q125984341,chiral muscle organ type
+E0064,Q201363,P279,subclass_of,Q66526981,muscle of anterior compartment of arm
+E0064,Q201363,P279,subclass_of,Q112826975,particular anatomical entity
+E0064,Q201363,P361,part_of,Q66526981,muscle of anterior compartment of arm
+E0064,Q201363,P527,has_part,Q28792036,long head of the biceps brachii
+E0064,Q201363,P527,has_part,Q28792038,short head of the biceps brachii
+E0064,Q201363,P2789,connects_with,Q928286,glenoid labrum
+E0065,Q83379,P31,instance_of,Q112826905,class of anatomical entity
+E0065,Q83379,P31,instance_of,Q125984341,chiral muscle organ type
+E0065,Q83379,P279,subclass_of,Q66526982,muscle of posterior compartment of arm
+E0065,Q83379,P279,subclass_of,Q112826975,particular anatomical entity
+E0065,Q83379,P361,part_of,Q66526982,muscle of posterior compartment of arm
+E0065,Q83379,P527,has_part,Q28792063,long head of triceps brachii
+E0066,Q637545,P31,instance_of,Q112826905,class of anatomical entity
+E0066,Q637545,P31,instance_of,Q125984341,chiral muscle organ type
+E0066,Q637545,P279,subclass_of,Q112826975,particular anatomical entity
+E0066,Q637545,P279,subclass_of,Q126174587,gluteal muscles
+E0066,Q637545,P361,part_of,Q12046616,musculus gluteus superficialis
+E0066,Q637545,P2789,connects_with,Q2447635,Iliotibial tract
+E0066,Q637545,P2789,connects_with,Q29072888,trochanteric bursa of gluteus maximus
+E0066,Q637545,P2789,connects_with,Q66535517,sciatic bursa of gluteus maximus
+E0068,Q2514016,P31,instance_of,Q103903440,anatomical set type
+E0068,Q2514016,P279,subclass_of,Q10590728,set of muscles
+E0069,Q275150,P31,instance_of,Q112826905,class of anatomical entity
+E0069,Q275150,P31,instance_of,Q125984341,chiral muscle organ type
+E0069,Q275150,P279,subclass_of,Q66505016,muscle of abdomen
+E0069,Q275150,P279,subclass_of,Q112826975,particular anatomical entity
+E0069,Q275150,P361,part_of,Q66505016,muscle of abdomen
+E0070,Q532798,P31,instance_of,Q112826905,class of anatomical entity
+E0070,Q532798,P31,instance_of,Q125984341,chiral muscle organ type
+E0070,Q532798,P279,subclass_of,Q66526707,pectoral muscle
+E0070,Q532798,P279,subclass_of,Q112826975,particular anatomical entity
+E0070,Q532798,P361,part_of,Q66505015,muscle of thorax
+E0071,Q774933,P31,instance_of,Q112826905,class of anatomical entity
+E0071,Q774933,P31,instance_of,Q125984341,chiral muscle organ type
+E0071,Q774933,P279,subclass_of,Q7365,muscle
+E0071,Q774933,P279,subclass_of,Q10590728,set of muscles
+E0071,Q774933,P279,subclass_of,Q70076052,paraspinal muscles
+E0071,Q774933,P279,subclass_of,Q112826975,particular anatomical entity
+E0071,Q774933,P361,part_of,Q130280264,epaxial muscles
+E0073,Q223600,P31,instance_of,Q113145171,type of chemical entity
+E0073,Q223600,P279,subclass_of,Q8066,amino acid
+E0073,Q223600,P361,part_of,Q14907623,creatine metabolic process
+E0073,Q223600,P361,part_of,Q15335900,creatine biosynthetic process
+E0073,Q223600,P361,part_of,Q21122381,creatine transmembrane transporter activity
+E0073,Q223600,P361,part_of,Q21133583,creatine:sodium symporter activity
+E0073,Q223600,P361,part_of,Q21971196,creatine transmembrane transport
+E0073,Q223600,P361,part_of,Q22276228,glycine catabolic process to creatine
+E0073,Q223600,P527,has_part,Q623,carbon
+E0073,Q223600,P527,has_part,Q627,nitrogen
+E0074,Q424430,P31,instance_of,Q645858,dietary supplement
+E0074,Q424430,P31,instance_of,Q84467700,group or class of proteins
+E0074,Q424430,P279,subclass_of,Q901969,globular protein
+E0074,Q424430,P279,subclass_of,Q21296145,protein
+E0074,Q424430,P361,part_of,Q185009,whey
+E0075,Q11358,P31,instance_of,Q47154513,structural class of chemical entities
+E0075,Q11358,P31,instance_of,Q136908428,nutrient group
+E0075,Q11358,P279,subclass_of,Q415812,polyol
+E0075,Q11358,P279,subclass_of,Q64698788,carbohydrate derivative
+E0075,Q11358,P361,part_of,Q2734081,carbohydrate metabolic process
+E0075,Q11358,P361,part_of,Q14633866,carbohydrate binding
+E0075,Q11358,P361,part_of,Q14887311,carbohydrate transport
+E0075,Q11358,P361,part_of,Q14890579,response to carbohydrate
+E0075,Q11358,P361,part_of,Q14912641,cellular response to carbohydrate stimulus
+E0075,Q11358,P361,part_of,Q21102359,carbohydrate biosynthetic process
+E0075,Q11358,P361,part_of,Q21106264,carbohydrate:proton symporter activity
+E0075,Q11358,P361,part_of,Q21121265,carbohydrate transmembrane transport
+E0075,Q11358,P361,part_of,Q21122289,carbohydrate homeostasis
+E0075,Q11358,P361,part_of,Q21151801,carbohydrate catabolic process
+E0075,Q11358,P361,part_of,Q22290444,carbohydrate export
+E0075,Q11358,P361,part_of,Q22291667,carbohydrate import across plasma membrane
+E0075,Q11358,P361,part_of,Q22320699,carbohydrate transmembrane transporter activity
+E0075,Q11358,P361,part_of,Q22320700,ABC-type carbohydrate transporter activity
+E0075,Q11358,P361,part_of,Q22324692,carbohydrate:cation symporter activity
+E0075,Q11358,P527,has_part,Q136192512,complex carbohydrates
+E0075,Q11358,P527,has_part,Q136192523,simple carbohydrates
+E0076,Q483745,P31,instance_of,Q113145171,type of chemical entity
+E0076,Q483745,P279,subclass_of,Q245282,essential amino acid
+E0076,Q483745,P279,subclass_of,Q3241589,proteinogenic amino acid
+E0076,Q483745,P279,subclass_of,Q24301658,L-amino acid
+E0076,Q483745,P279,subclass_of,Q60662890,DL-leucine
+E0076,Q483745,P361,part_of,Q188251,gluten
+E0076,Q483745,P361,part_of,Q21120747,L-leucine transmembrane transporter activity
+E0076,Q483745,P361,part_of,Q22290678,L-leucine import across plasma membrane
+E0076,Q483745,P361,part_of,Q57271720,hydrolysed corn protein
+E0076,Q483745,P527,has_part,Q623,carbon
+E0077,Q175621,P31,instance_of,Q55640599,group of chemical entities
+E0077,Q175621,P279,subclass_of,Q139660,secosteroid
+E0077,Q175621,P279,subclass_of,Q419119,prohormone
+E0077,Q175621,P279,subclass_of,Q4389811,fat-soluble vitamin
+E0077,Q175621,P279,subclass_of,Q104841410,vitamin D receptor modulator
+E0077,Q175621,P361,part_of,Q14599705,response to vitamin D
+E0077,Q175621,P361,part_of,Q14599717,vitamin D metabolic process
+E0077,Q175621,P361,part_of,Q14599721,vitamin D biosynthetic process
+E0077,Q175621,P361,part_of,Q14599725,vitamin D catabolic process
+E0077,Q175621,P361,part_of,Q14874296,vitamin D binding
+E0077,Q175621,P361,part_of,Q14907166,cellular response to vitamin D
+E0077,Q175621,P527,has_part,Q139200,ergocalciferol
+E0077,Q175621,P527,has_part,Q139347,cholecalciferol
+E0078,Q245282,P31,instance_of,Q56256178,class of chemical entities with similar source or occurrence
+E0078,Q245282,P279,subclass_of,Q8066,amino acid
+E0079,Q191756,P31,instance_of,Q742487,nootropic
+E0079,Q191756,P31,instance_of,Q47154513,structural class of chemical entities
+E0079,Q191756,P279,subclass_of,Q2250497,unsaturated fatty acid
+E0079,Q191756,P279,subclass_of,Q24067397,long chain fatty acid
+E0079,Q191756,P361,part_of,Q3298024,Essential fatty acid interactions
+E0080,Q223081,P31,instance_of,Q113145171,type of chemical entity
+E0080,Q223081,P279,subclass_of,Q378871,fatty alcohol
+E0080,Q223081,P279,subclass_of,Q40211102,hydroxy fatty acid
+E0081,Q60235,P31,instance_of,Q113145171,type of chemical entity
+E0081,Q60235,P279,subclass_of,Q3319060,methylxanthine
+E0081,Q60235,P361,part_of,Q14864406,caffeine oxidase activity
+E0081,Q60235,P361,part_of,Q14865217,response to caffeine
+E0081,Q60235,P361,part_of,Q21100531,cellular response to caffeine
+E0081,Q60235,P361,part_of,Q27124976,theobromine:S-adenosyl-L-methionine 1-N-methyltransferase activity
+E0081,Q60235,P361,part_of,Q27863054,paraxanthine:S-adenosyl-L-methionine 3-N-methyltransferase activity
+E0081,Q60235,P527,has_part,Q556,hydrogen
+E0081,Q60235,P527,has_part,Q623,carbon
+E0081,Q60235,P527,has_part,Q627,nitrogen
+E0081,Q60235,P527,has_part,Q629,oxygen
+E0082,Q193970,P31,instance_of,Q169336,mixture
+E0082,Q193970,P31,instance_of,Q863583,binder
+E0082,Q193970,P279,subclass_of,Q57417379,milk protein
+E0082,Q193970,P527,has_part,Q556,hydrogen
+E0082,Q193970,P527,has_part,Q623,carbon
+E0082,Q193970,P527,has_part,Q627,nitrogen
+E0082,Q193970,P527,has_part,Q629,oxygen
+E0082,Q193970,P527,has_part,Q674,phosphorus
+E0083,Q310919,P31,instance_of,Q113145171,type of chemical entity
+E0083,Q310919,P279,subclass_of,Q74026435,beta-amino acid
+E0083,Q310919,P361,part_of,Q21118001,beta-alanine biosynthetic process
+E0083,Q310919,P361,part_of,Q21118775,beta-alanine catabolic process
+E0083,Q310919,P361,part_of,Q21173256,beta-alanine metabolic process
+E0083,Q310919,P361,part_of,Q22276325,beta-alanine catabolic process to L-alanine
+E0083,Q310919,P361,part_of,Q22276504,"beta-alanine biosynthetic process via 1,3 diaminopropane"
+E0083,Q310919,P361,part_of,Q22276505,beta-alanine biosynthetic process via 3-hydroxypropionate
+E0083,Q310919,P361,part_of,Q22276506,beta-alanine biosynthetic process via 3-ureidopropionate
+E0083,Q310919,P361,part_of,Q22290686,beta-alanine transport
+E0083,Q310919,P361,part_of,Q22324873,beta-alanine transmembrane transporter activity
+E0083,Q310919,P527,has_part,Q556,hydrogen
+E0083,Q310919,P527,has_part,Q623,carbon
+E0083,Q310919,P527,has_part,Q627,nitrogen
+E0083,Q310919,P527,has_part,Q629,oxygen
+E0084,Q127980,P31,instance_of,Q136908428,nutrient group
+E0084,Q127980,P279,subclass_of,Q169336,mixture
+E0084,Q127980,P279,subclass_of,Q214609,material
+E0084,Q127980,P527,has_part,Q407758,glyceride
+E0085,Q179731,P31,instance_of,Q113145171,type of chemical entity
+E0085,Q179731,P279,subclass_of,Q622311,acid salt
+E0085,Q179731,P279,subclass_of,Q1508568,sodium salt
+E0085,Q179731,P279,subclass_of,Q56810858,bicarbonate
+E0085,Q179731,P527,has_part,Q556,hydrogen
+E0085,Q179731,P527,has_part,Q623,carbon
+E0085,Q179731,P527,has_part,Q629,oxygen
+E0085,Q179731,P527,has_part,Q409202,bicarbonate ion
+E0085,Q179731,P527,has_part,Q3154110,sodium ion
+E0085,Q179731,P2175,treats_condition,Q202837,cardiac arrest
+E0085,Q179731,P2175,treats_condition,Q223591,gastroesophageal reflux disease
+E0085,Q179731,P2175,treats_condition,Q537297,heartburn
+E0085,Q179731,P2175,treats_condition,Q653971,indigestion
+E0085,Q179731,P2175,treats_condition,Q1516211,renal tubular acidosis
+E0086,Q1955391,P31,instance_of,Q2996394,biological process
+E0086,Q1955391,P279,subclass_of,Q21119139,muscle system process
+E0087,Q3076906,P31,instance_of,Q1207505,quality
+E0087,Q3076906,P279,subclass_of,Q1785966,physical strength
+E0088,Q82642,P31,instance_of,Q42014143,biomedical measurand type
+E0088,Q82642,P279,subclass_of,Q39552,pressure
+E0088,Q82642,P279,subclass_of,Q1067560,vital signs
+E0089,Q852220,P279,subclass_of,Q1962328,compliance
+E0090,Q718113,P31,instance_of,Q1441305,clinical sign
+E0090,Q718113,P31,instance_of,Q112965645,symptom or sign
+E0090,Q718113,P279,subclass_of,Q6746705,management of obesity
+E0090,Q718113,P279,subclass_of,Q21128838,body weight change
+E0090,Q718113,P279,subclass_of,Q47496130,reduction
+E0090,Q718113,P279,subclass_of,Q102187407,"nutrition, metabolism, and development symptom"
+E0090,Q718113,P2176,drug_or_therapy,Q1470093,bariatric medicine
+E0091,Q309252,P279,subclass_of,Q32090,lifestyle
+E0091,Q309252,P279,subclass_of,Q7981051,well-being
+E0091,Q309252,P279,subclass_of,Q60389878,musculoskeletal physiological phenomena
+E0092,Q60354,P31,instance_of,Q10578722,maximum
+E0093,Q4116368,P279,subclass_of,Q66771588,body constitution
+E0094,Q311213,P279,subclass_of,Q43041,hemoglobin
+E0094,Q311213,P279,subclass_of,Q2671652,medical test
+E0094,Q311213,P527,has_part,Q623,carbon
+E0094,Q311213,P527,has_part,Q37525,glucose
+E0094,Q311213,P527,has_part,Q43041,hemoglobin
+E0095,Q7268788,P31,instance_of,Q2091629,magnitude
+E0095,Q7268788,P279,subclass_of,Q13100823,quality of life
+E0097,Q9690,P31,instance_of,Q169872,symptom
+E0097,Q9690,P31,instance_of,Q177719,medical diagnosis
+E0097,Q9690,P31,instance_of,Q130753312,symptom type
+E0097,Q9690,P279,subclass_of,Q1441305,clinical sign
+E0097,Q9690,P279,subclass_of,Q2057971,health problem
+E0097,Q9690,P279,subclass_of,Q99860490,neurological and physiological symptom
+E0097,Q9690,P828,has_cause,Q1485,systemic lupus erythematosus
+E0097,Q9690,P828,has_cause,Q8277,multiple sclerosis
+E0097,Q9690,P828,has_cause,Q12167,malnutrition
+E0097,Q9690,P828,has_cause,Q12206,diabetes
+E0097,Q9690,P828,has_cause,Q42844,major depressive disorder
+E0097,Q9690,P828,has_cause,Q177190,sleep disorder
+E0097,Q9690,P828,has_cause,Q209733,myalgic encephalomyelitis/chronic fatigue syndrome
+E0097,Q9690,P828,has_cause,Q213600,sleep apnea
+E0097,Q9690,P828,has_cause,Q327988,occupational burnout
+E0097,Q9690,P828,has_cause,Q540571,fibromyalgia
+E0097,Q9690,P828,has_cause,Q936549,somatic symptom disorder
+E0097,Q9690,P828,has_cause,Q1869874,insomnia
+E0097,Q9690,P828,has_cause,Q3500368,psychological stress
+E0097,Q9690,P828,has_cause,Q24238356,unknown
+E0097,Q9690,P828,has_cause,Q96199399,idiopathic chronic fatigue
+E0097,Q9690,P1542,has_effect,Q1778998,limber tail syndrome
+E0097,Q9690,P1995,health_specialty,Q3259956,primary care
+E0097,Q9690,P1995,health_specialty,Q11607623,general practice
+E0097,Q9690,P2176,drug_or_therapy,Q410441,modafinil
+E0097,Q9690,P2176,drug_or_therapy,Q20817212,ginseng
+E0098,Q14819849,P31,instance_of,Q2996394,biological process
+E0098,Q14819849,P279,subclass_of,Q14820936,defense response
+E0100,Q1074871,P279,subclass_of,Q1151752,jumping
+E0101,Q131191,P31,instance_of,Q1441305,clinical sign
+E0101,Q131191,P31,instance_of,Q42014143,biomedical measurand type
+E0101,Q131191,P279,subclass_of,Q107715,physical quantity
+E0101,Q131191,P279,subclass_of,Q11385167,anthropometric index
+E0101,Q131191,P361,part_of,Q140456385,RDC Motor Performance
+E0102,Q211935,P31,instance_of,Q2996394,biological process
+E0102,Q211935,P279,subclass_of,Q181898,polymerization
+E0102,Q211935,P279,subclass_of,Q14860473,cellular macromolecule biosynthetic process
+E0102,Q211935,P279,subclass_of,Q14864262,protein metabolic process
+E0102,Q211935,P279,subclass_of,Q14864278,peptide biosynthetic process
+E0102,Q211935,P361,part_of,Q26972,gene expression
+E0102,Q211935,P527,has_part,Q21101011,translational elongation
+E0102,Q211935,P527,has_part,Q74506216,protein polypeptide chain
+E0103,Q574415,P279,subclass_of,Q474959,myalgia
+E0103,Q574415,P1995,health_specialty,Q840545,sports medicine
+E0104,Q2093360,P279,subclass_of,Q193078,injury
+E0104,Q2093360,P279,subclass_of,Q1064904,major trauma
+E0104,Q2093360,P828,has_cause,Q11875820,sports accident
+E0104,Q2093360,P1995,health_specialty,Q840545,sports medicine
+E0104,Q2093360,P1995,health_specialty,Q2312882,sports traumatology
+E0105,Q2964389,P31,instance_of,Q42014143,biomedical measurand type
+E0105,Q2964389,P279,subclass_of,Q589446,mass concentration
+E0107,Q624482,P31,instance_of,Q2312410,sports discipline
+E0107,Q624482,P31,instance_of,Q131541832,anaerobic activity
+E0107,Q624482,P279,subclass_of,Q10572883,running discipline of track
+E0107,Q624482,P279,subclass_of,Q22938576,race
+E0108,Q362854,P279,subclass_of,Q2795791,rehabilitation
+E0108,Q362854,P279,subclass_of,Q3055155,sports training
+E0109,Q2304401,P31,instance_of,Q104019925,biomedical measurand
+E0110,Q2066131,P31,instance_of,Q28640,profession
+E0110,Q2066131,P31,instance_of,Q12737077,occupation
+E0110,Q2066131,P279,subclass_of,Q50995749,sportsperson
+E0111,Q181600,P279,subclass_of,Q852835,customer
+E0111,Q181600,P279,subclass_of,Q12722854,sick person
+E0112,Q6581072,P31,instance_of,Q48264,gender identity
+E0112,Q6581072,P31,instance_of,Q4369513,sex of humans
+E0112,Q6581072,P279,subclass_of,Q99485732,gendered
+E0112,Q6581072,P361,part_of,Q5530970,gender binary
+E0112,Q6581072,P361,part_of,Q20686840,male and female
+E0113,Q6581097,P361,part_of,Q5530970,gender binary
+E0113,Q6581097,P361,part_of,Q20686840,male and female
+E0113,Q6581097,P31,instance_of,Q48264,gender identity
+E0113,Q6581097,P31,instance_of,Q4369513,sex of humans
+E0113,Q6581097,P279,subclass_of,Q99485732,gendered
+E0114,Q191089,P31,instance_of,Q785260,phase of human life
+E0114,Q191089,P279,subclass_of,Q185836,age of a person
+E0114,Q191089,P279,subclass_of,Q1931388,cause of death
+E0114,Q191089,P279,subclass_of,Q2070979,senescence
+E0114,Q191089,P279,subclass_of,Q2347178,development of the human body
+E0114,Q191089,P828,has_cause,Q2070979,senescence
+E0114,Q191089,P1542,has_effect,Q4,death
+E0114,Q191089,P1542,has_effect,Q83030,dementia
+E0114,Q191089,P1542,has_effect,Q438962,aging-associated disease
+E0115,Q1349358,P31,instance_of,Q3706138,determinants of health
+E0115,Q1349358,P279,subclass_of,Q1475848,risk factor
+E0115,Q1349358,P279,subclass_of,Q3769299,human behavior
+E0115,Q1349358,P279,subclass_of,Q113377923,unhealthy lifestyle
+E0116,Q131774,P31,instance_of,Q185836,age of a person
+E0116,Q131774,P31,instance_of,Q785260,phase of human life
+E0116,Q131774,P31,instance_of,Q3249551,process
+E0117,Q2066131,P31,instance_of,Q28640,profession
+E0117,Q2066131,P31,instance_of,Q12737077,occupation
+E0117,Q2066131,P279,subclass_of,Q50995749,sportsperson
+E0118,Q17156455,P31,instance_of,Q785260,phase of human life
+E0118,Q17156455,P279,subclass_of,Q9584157,adult human
+E0118,Q17156455,P279,subclass_of,Q12350071,young person
+E0119,Q12834857,P279,subclass_of,Q3055155,sports training
+E0120,Q1152037,P279,subclass_of,Q219067,physical exercise
+E0121,Q2756206,P279,subclass_of,Q1558681,interval training
+E0122,Q1183039,P279,subclass_of,Q219067,physical exercise
+E0123,Q1425021,P279,subclass_of,Q2795791,rehabilitation
+E0123,Q1425021,P279,subclass_of,Q3055155,sports training
+E0124,Q205821,P279,subclass_of,Q3055155,sports training
+E0125,Q1216236,P279,subclass_of,Q219067,physical exercise
+E0125,Q1216236,P1542,has_effect,Q56036004,isometric contraction
+E0127,Q1558681,P279,subclass_of,Q3055155,sports training
+E0128,Q12834857,P279,subclass_of,Q3055155,sports training
+E0129,Q9350,P279,subclass_of,Q219067,physical exercise
+E0129,Q9350,P279,subclass_of,Q2270606,spiritual practice
+E0129,Q9350,P279,subclass_of,Q3527307,mind–body interventions
+E0129,Q9350,P361,part_of,Q59544,intangible cultural heritage
+E0129,Q9350,P527,has_part,Q108458,meditation
+E0129,Q9350,P527,has_part,Q466797,asana
+E0129,Q9350,P527,has_part,Q839496,Pranayama

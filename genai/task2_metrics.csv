@@ -1,0 +1,3 @@
+method,accuracy,macro_f1
+BART-large-MNLI zero-shot (Part 1.1),0.6,0.565
+LLM gemini-3.8-flash,0.9,0.851

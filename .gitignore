@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Raw / regenerated data (PubMed abstracts are not redistributed)
+data/
+bigquery/
+curated/abstracts_clean.csv
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Tools / OS
+mlruns/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+entity,method,n_citations,verifiable_citations,grounding_rate,words
+creatine,graph_rag,5,5,1.0,162
+creatine,no_context,6,3,0.5,175
+sarcopenia,graph_rag,5,5,1.0,171
+sarcopenia,no_context,3,0,0.0,172
+HIIT,graph_rag,5,5,1.0,179
+HIIT,no_context,4,0,0.0,171
+type 2 diabetes,graph_rag,6,6,1.0,170
+type 2 diabetes,no_context,6,0,0.0,173
+squat,graph_rag,4,4,1.0,183
+squat,no_context,6,0,0.0,172

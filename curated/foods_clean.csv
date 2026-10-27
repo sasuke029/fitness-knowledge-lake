@@ -1,0 +1,31 @@
+fdc_id,food_name,description,category,energy_kcal,protein_g,carbs_g,fat_g,fiber_g,sugars_g,sodium_mg,protein_per_100kcal,high_protein
+171445,"Chicken, broiler","Chicken, broiler, rotisserie, BBQ, breast, meat only",Poultry Products,144.0,28.0,0.0,3.57,0.0,0.0,328.0,19.44,True
+171287,"Egg, whole","Egg, whole, raw, fresh",Dairy and Egg Products,143.0,12.6,0.72,9.51,0.0,0.37,142.0,8.81,False
+175167,"Fish, salmon","Fish, salmon, Atlantic, farmed, raw",Finfish and Shellfish Products,208.0,20.4,0.0,13.4,0.0,0.0,59.0,9.81,True
+334194,"Fish, tuna","Fish, tuna, light, canned in water, drained solids",Finfish and Shellfish Products,90.0,19.0,0.08,0.94,0.0,0.0,219.0,21.11,True
+174030,"Beef, ground","Beef, ground, 90% lean meat / 10% fat, raw",Beef Products,176.0,20.0,0.0,10.0,0.0,0.0,66.0,11.36,True
+330137,"Yogurt, Greek","Yogurt, Greek, plain, nonfat",Dairy and Egg Products,61.0,10.3,3.64,0.37,0.0,3.27,36.0,16.89,False
+746782,"Milk, whole","Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,60.0,3.27,4.63,3.2,0.0,4.81,38.0,5.45,False
+328841,"Cheese, cottage","Cheese, cottage, lowfat, 2% milkfat",Dairy and Egg Products,84.0,11.0,4.31,2.3,0.0,4.1,321.0,13.1,False
+172475,"Tofu, raw","Tofu, raw, firm, prepared with calcium sulfate",Legumes and Legume Products,144.0,17.3,2.78,8.72,2.3,,14.0,12.01,True
+172421,"Lentils, mature seeds","Lentils, mature seeds, cooked, boiled, without salt",Legumes and Legume Products,116.0,9.02,20.1,0.38,7.9,1.8,2.0,7.78,False
+173757,"Chickpeas (garbanzo beans, bengal gram)","Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",Legumes and Legume Products,164.0,8.86,27.4,2.59,7.6,4.8,7.0,5.4,False
+173735,"Beans, black","Beans, black, mature seeds, cooked, boiled, without salt",Legumes and Legume Products,132.0,8.86,23.7,0.54,8.7,0.32,1.0,6.71,False
+172989,"Cereals, QUAKER","Cereals, QUAKER, Quick Oats, Dry",Breakfast Cereals,371.0,13.7,68.2,6.87,9.4,1.42,3.0,3.69,False
+169704,"Rice, brown","Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",Cereal Grains and Pasta,123.0,2.74,25.6,0.97,1.6,0.24,4.0,2.23,False
+168878,"Rice, white","Rice, white, long-grain, regular, enriched, cooked",Cereal Grains and Pasta,130.0,2.69,28.2,0.28,0.4,0.05,1.0,2.07,False
+168917,"Quinoa, cooked","Quinoa, cooked",Cereal Grains and Pasta,120.0,4.4,21.3,1.92,2.8,0.87,7.0,3.67,False
+168482,"Sweet potato, raw","Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribution Program)",Vegetables and Vegetable Products,86.0,1.57,20.1,0.05,3.0,4.18,55.0,1.83,False
+170026,"Potatoes, flesh and skin","Potatoes, flesh and skin, raw",Vegetables and Vegetable Products,77.0,2.05,17.5,0.09,2.1,0.82,6.0,2.66,False
+173944,"Bananas, raw","Bananas, raw",Fruits and Fruit Juices,89.0,1.09,22.8,0.33,2.6,12.2,1.0,1.22,False
+1750340,"Apples, fuji","Apples, fuji, with skin, raw",Fruits and Fruit Juices,64.7,0.148,15.7,0.162,2.08,13.3,1.01,0.23,False
+2346411,"Blueberries, raw","Blueberries, raw",Fruits and Fruit Juices,63.9,0.703,14.6,0.306,,9.36,0.0,1.1,False
+747447,"Broccoli, raw","Broccoli, raw",Vegetables and Vegetable Products,31.0,2.57,6.27,0.34,2.4,1.4,36.0,8.29,False
+168462,"Spinach, raw","Spinach, raw",Vegetables and Vegetable Products,23.0,2.86,3.63,0.39,2.2,0.42,79.0,12.43,False
+171705,"Avocados, raw","Avocados, raw, all commercial varieties",Fruits and Fruit Juices,160.0,2.0,8.53,14.7,6.7,0.66,7.0,1.25,False
+170567,"Nuts, almonds","Nuts, almonds",Nut and Seed Products,579.0,21.2,21.6,49.9,12.5,4.35,1.0,3.66,True
+172470,"Peanut butter, smooth style","Peanut butter, smooth style, without salt",Legumes and Legume Products,598.0,22.2,22.3,51.4,5.0,10.5,17.0,3.71,True
+171413,"Oil, olive","Oil, olive, salad or cooking",Fats and Oils,884.0,0.0,0.0,100.0,0.0,0.0,2.0,0.0,False
+172688,"Bread, whole-wheat","Bread, whole-wheat, commercially prepared",Baked Products,252.0,12.4,42.7,3.5,6.0,4.34,455.0,4.92,False
+173177,"Beverages, Whey protein powder isolate","Beverages, Whey protein powder isolate",Beverages,359.0,58.1,29.1,1.16,0.0,1.16,372.0,16.18,True
+328637,"Cheese, cheddar","Cheese, cheddar",Dairy and Egg Products,408.0,23.3,2.44,34.0,0.0,0.33,654.0,5.71,True
